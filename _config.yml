@@ -10,7 +10,7 @@ title: Recipes
 email: wayne.graham@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Recipes I've collected and want to be able to find again.
-baseurl: ""
+baseurl: "/recipes"
 url: "https://waynegraham.github.io"
 twitter_username: wayne_graham
 github_username:  waynegraham
