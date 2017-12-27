@@ -1,12 +1,12 @@
 ---
 title: Aglio e Olio
 layout: recipe
+prepTime: 5M
+cookTime: 10M
 tags:
   - italian
   - pasta
 ---
-
-# Aglio e Olio
 
 ## Ingredients
 
@@ -32,4 +32,4 @@ tags:
 - Add 1 teaspoon salt
 - Reduce by about 1/3 (about 5 minutes)
 
-In a separate bowl, add the drained pasta, sauce, parsley, and cheese; toss well. Let the pasta sit for about 5 minutes and serve. 
+In a separate bowl, add the drained pasta, sauce, parsley, and cheese; toss well. Let the pasta sit for about 5 minutes and serve.

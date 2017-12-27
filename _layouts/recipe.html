@@ -1,15 +1,20 @@
 ---
 layout: default
 ---
-<article class="post">
+<article class="recipe" itemscope itemtype="http://schema.org/Recipe">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
+  <header class="recipe-heading">
+    <h2 class="name">{{ page.title }}</h1>
+    <a href="#" class="recipe-print" data-print="print.css"><i class="fa fa-print"></i> Print this</a>
+    <div class="recipe-meta">
+      <span><i class="fa fa-user"></i> Serves <span class="servings" itemprop="recipeYield">4</span></span>
+      <span><i class="fa fa-clock-o"></i> Prep Time: <time datetime="PT15M" itemprop="prepTime">15 minutes</span>
+      <span><i class="fa fa-clock-o"></i> Cook Time: <time datetime="PT1H" itemprop="cookTime">1 hour</span>
+    </div>
   </header>
 
-  <div class="post-content">
+  <div class="recipe-content">
     {{ content }}
   </div>
 
 </article>
-

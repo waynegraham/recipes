@@ -18,7 +18,7 @@ const siteRoot = '_site/'
  */
 gulp.task('jekyll-build', function (done) {
     browserSync.notify(messages.jekyllBuild);
-    return cp.spawn('jekyll', ['build', '--config=_config.yml,_config.dev.yml'], {stdio: 'inherit'})
+    return cp.spawn('jekyll', ['build', '--incremental', '--config=_config.yml,_config.dev.yml'], {stdio: 'inherit'})
     .on('close', done);
     // return cp.spawn( jekyll , ['build', '--incremental', '--watch', '--config=_config.yml,_config.dev.yml'], {stdio: 'inherit'})
     //     .on('close', done);
