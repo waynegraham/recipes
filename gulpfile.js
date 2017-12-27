@@ -3,19 +3,25 @@ var browserSync = require('browser-sync');
 var sass        = require('gulp-sass');
 var prefix      = require('gulp-autoprefixer');
 var cp          = require('child_process');
+var gutil = require('gulp-util');
 
 var jekyll   = process.platform === 'win32' ? 'jekyll.bat' : 'jekyll';
 var messages = {
     jekyllBuild: '<span style="color: grey">Running:</span> $ jekyll build'
 };
 
+const sassFiles = '_sass/**/*.?(s)css';
+const siteRoot = '_site/'
+
 /**
  * Build the Jekyll Site
  */
 gulp.task('jekyll-build', function (done) {
     browserSync.notify(messages.jekyllBuild);
-    return cp.spawn( jekyll , ['build'], {stdio: 'inherit'})
-        .on('close', done);
+    return cp.spawn('jekyll', ['build', '--config=_config.yml,_config.dev.yml'], {stdio: 'inherit'})
+    .on('close', done);
+    // return cp.spawn( jekyll , ['build', '--incremental', '--watch', '--config=_config.yml,_config.dev.yml'], {stdio: 'inherit'})
+    //     .on('close', done);
 });
 
 /**
@@ -30,9 +36,11 @@ gulp.task('jekyll-rebuild', ['jekyll-build'], function () {
  */
 gulp.task('browser-sync', ['sass', 'jekyll-build'], function() {
     browserSync({
+        files: [siteRoot + '**'],
         server: {
-            baseDir: '_site'
-        }
+            baseDir: siteRoot
+        },
+        notify: true
     });
 });
 
