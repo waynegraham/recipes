@@ -1,5 +1,5 @@
 ---
-title: Pasta Sauce
+title: Pot Stickers
 from: https://foodwishes.blogspot.com/2017/10/potstickers-for-when-you-cant-decide.html
 layout: recipe
 tags:
@@ -51,7 +51,7 @@ Take each section and roll out in to the thickness of your thumb and divide in t
 
 Moisten the outside 1/2 inch with water and place a scoop of the filling in the middle. Pleat the sides.
 
-## Cooking 
+## Cooking
 
 On medium-high heat, pan fry for about 2 1/2 minutes (or until bottoms are golden brown).
 
