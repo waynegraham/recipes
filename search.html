@@ -16,7 +16,7 @@ permalink: /search/
 var documents = [{% for recipe in site.recipes %}
 {
   "title": "{{ recipe.title | xml_escape }}",
-  "url": "{{ recipe.url | xml_escape }}",
+  "url": "{%if site.baseurl %}{{ site.baseurl }}/{% endif %}{{ recipe.url | xml_escape }}",
   "content": "{{ recipe.content | strip_html | truncate: 50 | strip_newlines | xml_escape }}",
   "summary": "{{ recipe.content | strip_html | strip_newlines | xml_escape }}"
 }{% unless forloop.last %},{% endunless %}{% endfor %}];
