@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Wayne Graham -- Stuff -- @wayne_graham
+
+# THANKS
+
+    <name>
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Jekll, Github Pages, FontAwsome, jQuery, Modernizr, Normalize.css
