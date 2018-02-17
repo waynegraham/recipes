@@ -2,6 +2,11 @@
 title: Pancakes
 layout: recipe
 from: http://allrecipes.com/recipe/162760/fluffy-pancakes/
+image: https://upload.wikimedia.org/wikipedia/commons/3/34/Make_a_pancake.jpg
+category: breakfast
+prepTime: 5M
+cookTime: 10M
+recipeYield: 4
 tags:
   - pancakes
   - breakfast

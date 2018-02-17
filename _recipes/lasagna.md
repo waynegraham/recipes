@@ -2,6 +2,10 @@
 title: Lasagna
 from: Jeremy Boggs
 layout: recipe
+image: https://upload.wikimedia.org/wikipedia/commons/6/6b/Lasagna_%281%29.jpg
+prepTime: 30M
+cookTime: 50M
+recipeYield: 12
 tags:
   - pasta
   - lasagna
@@ -53,4 +57,3 @@ tags:
   spray, or make sure the foil does not touch the cheese.
 * Bake in preheated oven for 25 minutes. Remove foil, and bake an
   additional 25 minutes. Cool for 15 minutes before serving.
-

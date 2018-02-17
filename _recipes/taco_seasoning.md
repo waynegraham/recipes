@@ -2,6 +2,10 @@
 title: Taco Seasoning
 layout: recipe
 from: http://allrecipes.com/recipe/46653/taco-seasoning-i/
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/001_Tacos_de_carnitas%2C_carne_asada_y_al_pastor.jpg/1200px-001_Tacos_de_carnitas%2C_carne_asada_y_al_pastor.jpg
+prepTime: 5M
+cookTime: 10M
+recipeYield: 4
 tags:
   - seasoning
   - mexican
@@ -23,5 +27,3 @@ tags:
 Brown meat with a diced onion until done. Drain fat.
 
 Add seasoning and water and let simmer until thickened.
-
-

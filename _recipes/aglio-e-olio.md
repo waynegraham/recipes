@@ -1,8 +1,11 @@
 ---
 title: Aglio e Olio
 layout: recipe
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Aglio_e_olio.jpg/1200px-Aglio_e_olio.jpg
+recipeYield: 4
 prepTime: 5M
 cookTime: 10M
+category: Supper
 tags:
   - italian
   - pasta

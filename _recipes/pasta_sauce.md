@@ -2,6 +2,10 @@
 title: Pasta Sauce
 from: Jeremy Boggs
 layout: recipe
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Spaghetti_and_meatballs_1.jpg/1200px-Spaghetti_and_meatballs_1.jpg
+prepTime: 30M
+cookTime: 3H
+recipeYield: 12
 tags:
   - pasta
   - meatballs
@@ -65,4 +69,3 @@ sauce to thicken. Cook, stirring often for several hours. (If you feel
 sauce sticking to the bottom of the pot when you stir, do not scrape the
 bottom while it is still cooking. You will get the burnt bits in the
 sauce. Just stir gently.)
-

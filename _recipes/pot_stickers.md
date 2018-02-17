@@ -1,7 +1,13 @@
 ---
 title: Pot Stickers
 from: https://foodwishes.blogspot.com/2017/10/potstickers-for-when-you-cant-decide.html
+video: https://www.youtube.com/embed/GSmM00YekMc
 layout: recipe
+image: https://upload.wikimedia.org/wikipedia/commons/0/0a/Making_potstickers_8.jpeg
+category: snacks
+prepTime: 30M
+cookTime: 10M
+recipeYield: 4
 tags:
   - dumplings
 ---

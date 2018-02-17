@@ -1,6 +1,10 @@
 ---
 title: Refried Beans
 layout: recipe
+image: https://upload.wikimedia.org/wikipedia/commons/3/37/Refried_beans.jpg
+prepTime: 5M
+cookTime: 5M
+recipeYield: 4
 tags:
   - mexican
 ---

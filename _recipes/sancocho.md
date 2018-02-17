@@ -3,6 +3,8 @@ title: Sancocho
 layout: recipe
 prepTime: 5M
 cookTime: 1H
+recipeYield: 4
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Barranquilla_-_Sancocho_de_mondongo.jpg/1200px-Barranquilla_-_Sancocho_de_mondongo.jpg
 tags:
   - soup
 from: http://www.geniuskitchen.com/recipe/panamanian-sancocho-215671
