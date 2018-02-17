@@ -1,0 +1,24 @@
+---
+layout: default
+permalink: /search/
+---
+
+<div class="searchForm">
+  <form id="searchForm">
+    <input type="text" name="q" placeholder="Search" id="searchField" />
+    <input type="submit" value="Search!" id="searchButton" />
+  </form>
+</div>
+<br><br>
+<div id="results"></div>
+
+<script>
+var documents = [{% for recipe in site.recipes %}
+{
+  "title": "{{ recipe.title | xml_escape }}",
+  "url": "{{ recipe.url | xml_escape }}",
+  "content": "{{ recipe.content | strip_html | truncate: 50 | strip_newlines | xml_escape }}",
+  "summary": "{{ recipe.content | strip_html | strip_newlines | xml_escape }}"
+}{% unless forloop.last %},{% endunless %}{% endfor %}];
+
+</script>
