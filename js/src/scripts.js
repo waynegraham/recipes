@@ -33,10 +33,6 @@ $(function() {
     });
 
 
-
-
-
-
 });
 
 // $.getJSON('/content.json', function(data){
