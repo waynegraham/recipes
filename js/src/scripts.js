@@ -1,35 +1,40 @@
 $(function() {
-    var idx = lunr(function() {
-        this.ref('id');
-        this.field('title', {
-            boost: 10
+
+    if (typeof documents !== 'undefined') {
+        var idx = lunr(function() {
+            this.ref('id');
+            this.field('title', {
+                boost: 10
+            });
+            this.field('url');
+            this.field('body');
+            this.field('summary');
+
+            documents.forEach(function(doc, index) {
+                var entry = $.extend({
+                    id: index
+                }, doc);
+                this.add(entry);
+            }, this);
         });
-        this.field('url');
-        this.field('body');
-        this.field('summary');
+    }
 
-        documents.forEach(function(doc, index) {
-            var entry = $.extend({id: index}, doc);
-            this.add(entry);
-        }, this);
-    });
+    $('#searchForm').submit(function(event) {
+        event.preventDefault();
 
-    $('#searchForm').submit(function( event ){
-         event.preventDefault();
+        var searchTerm = $('#searchField').val();
+        var results = idx.search(searchTerm);
 
-         var searchTerm = $('#searchField').val();
-         var results = idx.search(searchTerm);
+        // console.log('results', results);
 
-         // console.log('results', results);
+        $('#results').html('<h1>Search Results (' + results.length + ')</h1>');
+        $('#results').append('<ul id="searchResults"></ul>');
 
-         $('#results').html('<h1>Search Results (' + results.length +')</h1>');
-         $('#results').append('<ul id="searchResults"></ul>');
-
-         $.each(results, function(index, result){
-             entry = documents[result.ref];
-             // Append the entry to the list.
-             $('#searchResults').append('<li><a href="' + entry.url + '">' + entry.title + '</li>');
-         });
+        $.each(results, function(index, result) {
+            entry = documents[result.ref];
+            // Append the entry to the list.
+            $('#searchResults').append('<li><a href="' + entry.url + '">' + entry.title + '</li>');
+        });
     });
 
 
