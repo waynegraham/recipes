@@ -23,6 +23,7 @@ tags:
 - smoked paprika
 - Cheddar Cheese
 - Parmesan
+- Couple dashes of hot sauce
 
 ## Directions
 
