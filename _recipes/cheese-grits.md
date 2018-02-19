@@ -1,7 +1,7 @@
 ---
 title: Cheese Grits
 layout: recipe
-image:
+image:  https://www.wikihow.com/images/thumb/7/73/Prepare-Grits-Step-10.jpg/aid782429-v4-728px-Prepare-Grits-Step-10.jpg
 from:
 video:
 recipeYield: 2

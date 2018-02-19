@@ -1,23 +1,30 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
   {% include head.html %}
   <body>
-
+    {% include navigation.html %}
     {% include header.html %}
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
+    <div class="container main-content">
+			<section class="content">{{ content }}</section>
+			{% include sidebar.html %}
+		</div>
 
     {% include footer.html %}
 
     <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.1.5/lunr.min.js"></script>
-    {% capture script_path %}/{{ site.baseurl }}{% endcapture %}
     <script src="{{ '/js/scripts.js' | prepend: site.baseurl }}"></script>
+
+    {% if site.google_analytics_key != '' %}
+		<script>
+			window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+			ga('create', '{{ site.google_analytics_key }}', 'auto');
+			ga('send', 'pageview');
+		</script>
+		<script async src='https://www.google-analytics.com/analytics.js'></script>
+		{% endif %}
   </body>
 
 </html>

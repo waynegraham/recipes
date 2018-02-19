@@ -1,36 +1,14 @@
 ---
 layout: default
+image_view: true
 ---
 
-<div class="home">
-
-  <h1 class="page-heading">Recipes</h1>
-
-  <ul class="post-list">
-    {% for recipe in site.recipes %}
-      <li>
-        <h2>
-          <a class="post-link" href="{{ recipe.url | prepend: site.baseurl }}">{{ recipe.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-
-  <!-- <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
-
-</div>
+{% if page.image_view %}
+	<div class="recipes">
+		{% for recipe in site.recipes %}
+			<div class="recipe" style="background-image: url('{{ recipe.image }}')">
+				<a href="{{ recipe.url }}"><span>{{ recipe.title }}</span></a>
+			</div>
+		{% endfor %}
+	</div>
+{% endif %}

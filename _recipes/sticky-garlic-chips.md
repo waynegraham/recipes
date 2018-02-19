@@ -1,7 +1,7 @@
 ---
 title: Sticky Garlic Chips
 layout: recipe
-image:
+image: https://upload.wikimedia.org/wikipedia/commons/d/d0/Peeled_garlic.JPG
 from: https://futuredish.com/breakfast-banchan/
 video: https://www.youtube.com/embed/H_-0Z2S1XwQ?start=161
 recipeYield: 2

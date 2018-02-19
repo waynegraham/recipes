@@ -2,22 +2,22 @@
 layout: default
 ---
 <article class="recipe" itemscope itemtype="http://schema.org/Recipe">
-
   {% if page.video %}
   <div class="embed-container">
     <iframe src="{{ page.video }}?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   </div>
   {% endif %}
 
-  <header class="recipe-heading">
-    <h2 class="name">{{ page.title }}</h1>
-    <a href="#" class="recipe-print" data-print="print.css"><i class="fa fa-print"></i> Print this</a>
-    <div class="recipe-meta">
-      <span><i class="fa fa-user"></i> Serves <span class="servings" itemprop="recipeYield">{{ page.recipeYield }}</span></span>
-      <span><i class="fa fa-clock-o"></i> Prep Time: <time datetime="PT{{ page.prepTime }}" itemprop="prepTime">{{ page.prepTime }}</span>
-      <span><i class="fa fa-clock-o"></i> Cook Time: <time datetime="PT{{ page.cookTime }}" itemprop="cookTime">{{ page.cookTime }}</span>
-    </div>
-  </header>
+  <h1>{{ page.title }}</h1>
+
+  <ul id="recipe" class="recipe-overview">
+		<li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.recipeYield }}</span></li>
+		<li title="Prep Time">{% include recipe-icon.html icon="time" %}<span>{{ page.prepTime }}</span></li>
+		<li title="Cook Time">{% include recipe-icon.html icon="cook" %}<span>{{ page.cookTime }}</span></li>
+    <li title="Print Recipe">
+      <a href="#" onclick="window.print();" class="recipe-print" data-print="print.css"><i class="fa fa-print"></i> Print this</a>
+    </li>
+	</ul>
 
   <div class="recipe-content">
     {{ content }}
