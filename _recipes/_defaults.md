@@ -1,8 +1,7 @@
 ---
 title:
+layout: recipe
 categories:
-date:
-featured_image:
 image:
 from:
 video:

@@ -1,5 +1,6 @@
 ---
 title: Hotteok
+alt_title: 호떡
 layout: recipe
 image: https://upload.wikimedia.org/wikipedia/commons/9/97/Hotteok.jpg
 from: https://www.maangchi.com/recipe/hotteok

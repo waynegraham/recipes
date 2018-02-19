@@ -1,7 +1,7 @@
 ---
 title: Irish Cheddar Spring Onion Biscuits
 layout: recipe
-image: https://upload.wikimedia.org/wikipedia/commons/9/97/Hotteok.jpg
+image: http://hobbyfarms.com.s3-us-west-2.amazonaws.com/image_transfer/hobby-farm-recipes/spring-onion-biscuits_400.jpg
 from: http://foodwishes.blogspot.com/2017/03/irish-cheddar-spring-onion-biscuits.html
 video: https://www.youtube.com/embed/du90n1B-U6M?rel=0
 recipeYield: 4

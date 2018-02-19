@@ -4,10 +4,15 @@ $(function() {
         var idx = lunr(function() {
             this.ref('id');
             this.field('title', {
-                boost: 10
+                boost: 20
+            });
+            this.field('alt_title', {
+                boost: 20
             });
             this.field('url');
-            this.field('body');
+            this.field('category', { boost: 10 });
+            this.field('tags', { boost: 5 });
+            this.field('content');
             this.field('summary');
 
             documents.forEach(function(doc, index) {

@@ -1,5 +1,6 @@
 ---
 title: Eomukguk
+alt_title: 어묵국
 layout: recipe
 image: http://crazykoreancooking.com/sites/default/files/styles/feature_image_752_x_500/public/Fishcake%20Soup.jpg?itok=nlDiwGRq
 video: https://www.youtube.com/embed/0zeboswxMeQ?rel=0

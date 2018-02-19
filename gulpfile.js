@@ -63,7 +63,7 @@ gulp.task('scripts', function() {
  */
  gulp.task('compress', function (cb) {
    pump([
-         gulp.src('js/src/build/*.js'),
+         gulp.src('js/build/*.js'),
          sourcemaps.init(),
          uglify(),
          sourcemaps.write(),
