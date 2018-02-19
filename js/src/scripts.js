@@ -28,12 +28,12 @@ $(function() {
         // console.log('results', results);
 
         $('#results').html('<h1>Search Results (' + results.length + ')</h1>');
-        $('#results').append('<ul id="searchResults"></ul>');
+        $('#results').append('<section id="searchResults"></section>');
 
         $.each(results, function(index, result) {
             entry = documents[result.ref];
             // Append the entry to the list.
-            $('#searchResults').append('<li><a href="' + entry.url + '">' + entry.title + '</li>');
+            $('#searchResults').append('<article class="recipe"><h1><a href="' + entry.url + '">' + entry.title + '</a></h1><div class="image"><img src="' + entry.image + '"/></div><p>' + entry.summary + '</p><p><a class="button" href="' + entry.url + '">Read more</a></p></article>');
         });
     });
 

@@ -17,8 +17,9 @@ var documents = [{% for recipe in site.recipes %}
 {
   "title": "{{ recipe.title | xml_escape }}",
   "url": "{%if site.baseurl %}{{ site.baseurl }}/{% endif %}{{ recipe.url | xml_escape }}",
+  "image": "{{ recipe.image }}",
   "content": "{{ recipe.content | strip_html | truncate: 50 | strip_newlines | xml_escape }}",
-  "summary": "{{ recipe.content | strip_html | strip_newlines | xml_escape }}"
+  "summary": "{{ recipe.excerpt | strip_html | strip_newlines | xml_escape }}"
 }{% unless forloop.last %},{% endunless %}{% endfor %}];
 
 </script>
