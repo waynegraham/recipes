@@ -2,9 +2,9 @@
 title: Grandma's Twice Cooked Chicken
 layout: recipe
 categories: thai, chicken
-image:
+image: https://hot-thai-kitchen.com/wp-content/uploads/2017/07/gai-kem-v2-sm-365x235.jpg
 from: https://hot-thai-kitchen.com/gai-kem-v2/
-video: https://www.youtube.com/watch?v=t4fpAb3Cb7c
+video: https://www.youtube.com/embed/t4fpAb3Cb7c
 recipe:
   recipeYield: 2
   prepTime: 5M
