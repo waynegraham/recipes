@@ -2,9 +2,9 @@
 title: Massaman Curry
 layout: recipe
 categories:
-image: https://en.wikipedia.org/wiki/Massaman_curry#/media/File:Kaeng_matsaman_kai.JPG
+image: https://upload.wikimedia.org/wikipedia/commons/b/b5/Kaeng_matsaman_kai.JPG
 from: https://hot-thai-kitchen.com/massaman-curry/
-video: https://www.youtube.com/watch?time_continue=2&v=nVqHRywEnx4
+video: https://www.youtube.com/embed/nVqHRywEnx4
 recipe:
   recipeYield: 3-4
   prepTime: 5M

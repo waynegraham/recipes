@@ -11,9 +11,9 @@ layout: default
   <h1>{{ page.title }}{% if page.alt_title %} ({{ page.alt_title }}){% endif %}</h1>
 
   <ul id="recipe" class="recipe-overview">
-		<li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.recipeYield }}</span></li>
-		<li title="Prep Time">{% include recipe-icon.html icon="time" %}<span>{{ page.prepTime }}</span></li>
-		<li title="Cook Time">{% include recipe-icon.html icon="cook" %}<span>{{ page.cookTime }}</span></li>
+		<li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.recipe.recipeYield }}</span></li>
+		<li title="Prep Time">{% include recipe-icon.html icon="time" %}<span>{{ page.recipe.prepTime }}</span></li>
+		<li title="Cook Time">{% include recipe-icon.html icon="cook" %}<span>{{ page.recipe.cookTime }}</span></li>
     <li title="Print Recipe">
       <a href="#" onclick="window.print();" class="recipe-print" data-print="print.css"><i class="fa fa-print"></i> Print this</a>
     </li>

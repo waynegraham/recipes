@@ -4,7 +4,7 @@ layout: recipe
 categories:
 image: https://4.bp.blogspot.com/-AjiXKFKleO0/WPbhd0C7RrI/AAAAAAAASnQ/KIyf5pZS-g45VP-4uD_znvN97LHPEbxhgCLcB/s320/IMG_7818.JPG
 from: FoodWishes.com
-video: https://www.youtube.com/watch?v=SoFSmNaKTVU
+video: https://www.youtube.com/embed/SoFSmNaKTVU
 recipe:
   recipeYield: 2
   prepTime: 15M
