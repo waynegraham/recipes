@@ -1,7 +1,11 @@
----
-# Only the main Sass file needs front matter (the dashes are enough)
----
 @charset "utf-8";
+
+// Breakpoints
+$tablet: "(min-width: 450px)";
+$mid-point: "(min-width: 620px)";
+$desktop: "(min-width: 900px)";
+
+$light-grey: #999;
 
 // Our variables
 $base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -40,12 +44,3 @@ $on-laptop:        800px;
         @content;
     }
 }
-
-
-
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-    "recipes",
-    "base",
-    "layout"
-;

@@ -46,8 +46,9 @@ collections:
     permalink: /recipes/:path/
 
 exclude:
+  - .*
   - gulpfile.js
-  - node_modules
+  - node_modules/
   - package.json
   - Gemfile
   - Gemfile.lock
