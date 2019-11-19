@@ -10,8 +10,12 @@ $(function() {
                 boost: 20
             });
             this.field("url");
-            this.field("category", { boost: 10 });
-            this.field("tags", { boost: 5 });
+            this.field("category", {
+                boost: 10
+            });
+            this.field("tags", {
+                boost: 5
+            });
             this.field("content");
             this.field("summary");
 
@@ -41,6 +45,20 @@ $(function() {
             $("#searchResults").append('<article class="recipe"><h1><a href="' + entry.url + '">' + entry.title + '</a></h1><div class="image"><img src="' + entry.image + '"/></div><p>' + entry.summary + '</p><p><a class="button" href="' + entry.url + '">Read more</a></p></article>');
         });
     });
+
+    $(function() {
+        $('.recipe img').imgPin();
+        $('a[href*=\\#]').on('click', function(event) {
+            var el = $(this.hash);
+            if (el.length > 0) {
+                event.preventDefault();
+                $('html,body').animate({
+                    scrollTop: $(this.hash).offset().top - 50
+                }, 500);
+            }
+        });
+    });
+
 
 
 });
