@@ -18,12 +18,55 @@ baseurl: "/recipes"
 url: "https://waynegraham.github.io"
 google_analytics_key:
 
+# Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
+logo: /siteicon.png
+description: My recipes
+author:
+  name: Wayne Graham
+  email:
+  twitter: # twitter username without the @ symbol
+social:
+  name: Recipes
+  links:
+    - https://github.com/waynegraham/recipes
+
+# -----
+# Build
+
+timezone: Etc/UTC
+
 paginate: 20
 paginate_path: "/:num/"
 permalink: pretty
 
-# Build settings
-markdown: kramdown
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      push_sidebar_down: true
+      print_stylesheet: true
+      comments: true
+      _options:
+        content:
+          width: 1560
+          height: 2000
+        featured_image:
+          width: 1560
+          height: 2000
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "index.html"
+    values:
+      layout: "default"
+      push_sidebar_down: true
 
 sass:
   style: compressed
@@ -56,3 +99,8 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
+_options:
+  author_image:
+    width: 400
+    height: 400
