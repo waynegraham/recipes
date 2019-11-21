@@ -2,11 +2,11 @@
 title:
 layout: recipe
 categories:
-image:
-from:
+featured_image:
+from: 
 servings: 2
-prep: 5M
-cook: 30M
+prep: 10M
+cook: 40M
 video:
 recipe:
   ingredients_markdown: |-
