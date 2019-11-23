@@ -3,7 +3,7 @@ title: Homemade "Shin Ramyn"
 layout: recipe
 categories:
   - Korean
-featured_image:
+featured_image: http://www.fussfreecooking.com/wp-content/uploads/2013/10/a36.jpg
 from: http://www.fussfreecooking.com/recipe-categories/meatless-recipes/homemade-instant-shin-ramyun-hot-spicy-ramen/
 servings: 4
 prep: 10M
@@ -22,6 +22,11 @@ recipe:
     - 2 drops of sesame oil per bowl
     - Salt, pepper, MSG to taste
 
+    **Optional**
+    - Corn (optional)
+    - 2 eggs (optional)
+
+
   directions_markdown: |-
     1. Heat vegetable oil in cast iron pot over medium-low
     1. Sauté the white part of the spring onion and ginger (leave the green part as garnish later)
@@ -29,9 +34,11 @@ recipe:
     1. Add hot bean paste and sauté until slightly aromatic.
     1. Add stock and 2 cups of water and cook on high heat until it boils
     1. Reduce the heat to low and allow it to simmer for another 10 minutes
+    1. If you are poaching an egg, break the egg and add it
     1. Cook the udon in a separate pot
     1. Taste for seasoning
     1. Place noodles in bowl, top with soup
     1. Add sesame oil and green onion tops
+
 tags:
 ---
