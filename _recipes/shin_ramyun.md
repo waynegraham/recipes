@@ -1,5 +1,5 @@
 ---
-title: Homemade "Shin Ramyn"
+title: Homemade "Shin Ramyun"
 layout: recipe
 categories:
   - Korean
