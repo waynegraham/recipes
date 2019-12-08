@@ -2,7 +2,7 @@
 title: Lasagna
 from: Jeremy Boggs
 layout: recipe
-featured_image: https://upload.wikimedia.org/wikipedia/commons/6/6b/Lasagna_%281%29.jpg
+featured_image: https://source.unsplash.com/6rtm6a_aVyE
 prep: 30M
 cook: 50M
 servings: 12

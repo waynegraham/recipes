@@ -1,5 +1,5 @@
 ---
-title: Steamed Eggs
+title: Steamed Eggs (Gyeran jjim 부드러운 계란찜 만들기)
 layout: recipe
 alt_title: 부드러운 계란찜 만들기
 categories: Korean

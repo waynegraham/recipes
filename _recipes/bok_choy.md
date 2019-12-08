@@ -3,7 +3,7 @@ title: 10 Minute Garlic Bok Choy
 layout: recipe
 categories:
   - Korean
-featured_image: https://theforkedspoon.com/wp-content/uploads/2019/01/bok-choy-5.jpg.webp
+featured_image: https://source.unsplash.com/lkgqwgVOFXg/
 from: https://theforkedspoon.com/bok-choy-recipe/
 servings: 2
 prep: 2M

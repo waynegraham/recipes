@@ -261,6 +261,7 @@ DEPENDENCIES
   html-proofer
   jekyll
   jekyll-feed
+  jekyll-seo-tag
   jekyll-sitemap
   ra11y
 

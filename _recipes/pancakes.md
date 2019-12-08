@@ -2,7 +2,7 @@
 title: Pancakes
 layout: recipe
 from: http://allrecipes.com/recipe/162760/fluffy-pancakes/
-featured_image: https://upload.wikimedia.org/wikipedia/commons/3/34/Make_a_pancake.jpg
+featured_image: https://source.unsplash.com/TkzdkVn1AyA
 prep: 5M
 cook: 10M
 servings: 4

@@ -3,7 +3,7 @@ title: Gnocchi with Pomodoro Sauce
 layout: recipe
 categories:
   - Pasta
-featured_image: https://bmexdi064h-flywheel.netdna-ssl.com/wp-content/uploads/2015/08/Gnocchi-With-Pomodoro-Sauce-foodiecrush.com-015.jpg
+featured_image: https://source.unsplash.com/eNQo4Bo9qtQ
 from: https://www.foodiecrush.com/gnocchi-with-pomodoro-sauce/
 servings: 4
 prep: 10M

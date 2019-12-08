@@ -2,7 +2,7 @@
 title: Taco Seasoning
 layout: recipe
 from: http://allrecipes.com/recipe/46653/taco-seasoning-i/
-featured_image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/001_Tacos_de_carnitas%2C_carne_asada_y_al_pastor.jpg/1200px-001_Tacos_de_carnitas%2C_carne_asada_y_al_pastor.jpg
+featured_image: https://source.unsplash.com/qsPHXC4T2cY
 prep: 5M
 cook: 10M
 servings: 4

@@ -2,7 +2,7 @@
 title: Pasta Sauce
 from: Jeremy Boggs
 layout: recipe
-featured_image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Spaghetti_and_meatballs_1.jpg/1200px-Spaghetti_and_meatballs_1.jpg
+featured_image: https://source.unsplash.com/AUAuEgUxg5Q
 prep: 30M
 cook: 3H
 servings: 12

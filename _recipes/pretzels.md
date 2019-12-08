@@ -4,7 +4,7 @@ layout: recipe
 categories:
   - Bread
 featured_image: https://sallysbakingaddiction.com/wp-content/uploads/2017/04/easy-homemade-soft-pretzels.jpg
-from: https://sallysbakingaddiction.com/easy-homemade-soft-pretzels/
+from: https://source.unsplash.com/l5lCxvZfwcQ
 video:
 servings: 12
 prep: 25M

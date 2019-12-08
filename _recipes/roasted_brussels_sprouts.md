@@ -3,7 +3,7 @@ title: Roasted Brussels Sprouts
 layout: recipe
 categories:
   - American
-featured_image: https://theforkedspoon.com/wp-content/uploads/2015/11/img-9.jpg.webp
+featured_image: https://source.unsplash.com/dqlxphCcA2g
 from: https://theforkedspoon.com/roasted-brussel-sprouts-with-lemon-garlic-and-red-pepper/
 servings: 2
 prep: 10M

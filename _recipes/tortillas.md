@@ -1,7 +1,7 @@
 ---
 title: Tortillas
 layout: recipe
-featured_image: https://upload.wikimedia.org/wikipedia/commons/5/56/NCI_flour_tortillas.jpg
+featured_image: https://source.unsplash.com/Wqgpy1qdV4c
 prep: 1H
 cook: 10M
 servings: 4

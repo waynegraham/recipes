@@ -3,7 +3,7 @@ title: Blueberry-Chia Seed Jam
 layout: recipe
 categories:
   - American
-featured_image: https://assets.bonappetit.com/photos/57acab6c53e63daf11a4d940/16:9/w_2560,c_limit/blueberry-chia-seed-jam-1.jpg
+featured_image: https://source.unsplash.com/SWyfzICySco/
 from: https://www.bonappetit.com/recipe/blueberry-chia-seed-jam
 servings: 12
 prep: 10M
