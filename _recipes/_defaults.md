@@ -2,8 +2,8 @@
 title:
 layout: recipe
 categories:
-featured_image:
-from: 
+featured_image: https://source.unsplash.com/MNtag_eXMKw
+from:
 servings: 2
 prep: 10M
 cook: 40M
