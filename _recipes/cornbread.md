@@ -2,7 +2,7 @@
 title: Cornbread
 layout: recipe
 categories: Southern
-featured_image: https://source.unsplash.com/7dyOM91vWXw
+featured_image: https://source.unsplash.com/5lKSHTKnarQ
 from:
 servings: 2
 prep: 5M
