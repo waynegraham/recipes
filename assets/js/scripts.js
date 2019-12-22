@@ -34,15 +34,15 @@ $(function() {
         var searchTerm = $("#searchField").val();
         var results = idx.search(searchTerm);
 
-        // console.log('results', results);
+        console.log('results', results.length);
 
-        $("#results").html("<h1>Search Results (' + results.length + ')</h1>");
+        $("#results").html('<h1>Search Results (' + results.length + ")</h1>");
         $("#results").append("<section id=\"searchResults\"></section>");
 
         $.each(results, function(index, result) {
             entry = documents[result.ref];
             // Append the entry to the list.
-            $("#searchResults").append('<article class="recipe"><h1><a href="' + entry.url + '">' + entry.title + '</a></h1><div class="image"><img src="' + entry.image + '"/></div><p>' + entry.summary + '</p><p><a class="button" href="' + entry.url + '">Read more</a></p></article>');
+            $("#searchResults").append('<article class="recipe"><h1><a href="' + entry.url + '">' + entry.title + '</a></h1><div class="image"><a href="' + entry.url + '"><img src="' + entry.image + '"/></a></div><p>' + entry.content + '</p><p><a class="button" href="' + entry.url + '">Read more</a></p></article>');
         });
     });
 

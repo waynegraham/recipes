@@ -106,17 +106,17 @@ function jekyll() {
 
 // Watch files
 function watchFiles() {
-  gulp.watch("./_sass/**/*", css);
+  //gulp.watch("./_sass/**/*", css);
   gulp.watch("./assets/js/**/*", gulp.series(scriptsLint, scripts));
-  gulp.watch(
-    [
-      "./_data/**.*",
-      "./_includes/**/*",
-      "./_layouts/**/*",
-      "./_recipes/**/*",
-    ],
-    gulp.series(jekyll, browserSyncReload)
-  );
+  // gulp.watch(
+  //   [
+  //     "./_data/**.*",
+  //     "./_includes/**/*",
+  //     "./_layouts/**/*",
+  //     "./_recipes/**/*",
+  //   ],
+    // gulp.series(jekyll, browserSyncReload)
+  // );
   gulp.watch("./assets/img/**/*", images);
 }
 
@@ -135,7 +135,8 @@ gulp.task(
 
 gulp.task(
   "default",
-  gulp.series(clean, gulp.parallel(css, images, jekyll, watchFiles, browserSync))
+  // gulp.series(clean, gulp.parallel(watchFiles));
+  //gulp.series(clean, gulp.parallel(css, images, jekyll, watchFiles, browserSync))
 );
 
 // watch

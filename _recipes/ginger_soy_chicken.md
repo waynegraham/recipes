@@ -1,10 +1,10 @@
 ---
-title: Ginger Soy Chicken ไก่เค็ม
+title: Ginger Soy Chicken (ไก่เค็ม)
 layout: recipe
 categories:
   - Thai
 featured_image: https://hot-thai-kitchen.com/wp-content/uploads/2015/03/gai-kem-sm-225x225.jpg
-from:
+from: https://hot-thai-kitchen.com/gai-pad-king/
 servings: 2
 prep: 5M
 cook: 30M
@@ -13,7 +13,7 @@ recipe:
   ingredients_markdown: |-
     - 500g chicken thigh, cut into 1½” cubes
     - 1½ Tbsp soy sauce
-    - 1 Tbsp Golden Mountain sauce (what is it?)
+    - 1 Tbsp Golden Mountain sauce
     - 2 tsp black soy sauce
     - 4-5 cloves garlic, chopped
     - 2 Tbsp chopped ginger
