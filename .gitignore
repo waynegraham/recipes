@@ -1,6 +1,8 @@
 _site
 .sass-cache
 .env
+.DS_Store
+.bundle/
 .jekyll-metadata
 node_modules/
 js/build/
