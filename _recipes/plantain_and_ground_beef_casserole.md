@@ -2,6 +2,7 @@
 title: Plantain and Ground Beef Casserole
 layout: recipe
 categories:
+  - Panamanian
 featured_image: https://source.unsplash.com/MNtag_eXMKw
 from:
 servings: 2
