@@ -1,5 +1,5 @@
 ---
-title: Plantain and Ground Beef Casserole
+title: Plantain and Ground Beef Casserole (Cacerola de Plátano y Carne Molida)
 layout: recipe
 categories:
   - Panamanian
@@ -33,7 +33,7 @@ recipe:
     1. Remove from pan and place on paper towels to drain.
     1. Line the bottom and edges of a 9x13 casserole with the plantain slices. Reserve some for the top.
     1. Brown the meat in the skillet.
-    1. Add the onion, celery, paprika?, garlic, and coriander. Fry until fragrant.
+    1. Add the onion, celery, green peppers, garlic, and coriander. Fry until fragrant.
     1. Add the tomato paste, Worcestershire sauce, olives, salt and chili pepper.
     1. Add 3/4 cup of water and cook, stirring occasionally until the meat is soft and almost dry.
     1. Carefully place the meat in the casserole over the plantains.

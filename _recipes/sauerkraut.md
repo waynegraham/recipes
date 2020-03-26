@@ -2,7 +2,8 @@
 title: Sauerkraut
 layout: recipe
 categories:
-featured_image: https://source.unsplash.com/XZUqPMLHvzw
+  - German
+featured_image: https://source.unsplash.com/qae8qOmD-sM
 from:
 servings:
 prep: 10M

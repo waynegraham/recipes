@@ -2,6 +2,7 @@
 title: Chinese Poached Chicken
 layout: recipe
 categories:
+  - Chinese
 featured_image: https://source.unsplash.com/kRIi3NH2U90
 from: https://www.donnahay.com.au/recipes/dinner/chinese-poached-chicken
 servings: 6
