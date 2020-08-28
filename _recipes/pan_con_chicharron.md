@@ -10,27 +10,34 @@ cook: 2H
 video:
 recipe:
   ingredients_markdown: |-
-    **Brine**
+
+    **Pork**
+
     - 1 lb. pork chop, bone in
     - 4 cups water
     - 1/4 cup salt
+    - 4 brioch sandwich buns
 
     ** Braise **
+
     - 1 yellow onion, quartered
     - 1 bay leaf
 
     ** Sweet Potato **
+
     - 1 large sweet potato
     - olive oil
+
     ** Salsa Criolla**
+
     - 2 habanero peppers, julienned
     - 1 yellow onion, julienned
     - 1 lime
     - salt/pepper to taste
     - fresh cilantro
 
-    - 4 sandwich buns
   directions_markdown: |-
+
     ** Pork **
 
     1. Make a brine with water and salt. Add pork and brine overnight in the fridge.
@@ -43,7 +50,6 @@ recipe:
     ** Salsa Criolla**
 
     You can make this beforehand.
-
     1 Stem and vein the peppers
     1 Toss with onions
     1 Add the juice of 1 lime
