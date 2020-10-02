@@ -8,7 +8,7 @@ from:
 servings: 2
 prep: 1M
 cook: 3M
-video: https://www.youtube.com/watch?v=AI4ynXzkSQo
+video: https://www.youtube.com/embed/AI4ynXzkSQo
 recipe:
   ingredients_markdown: |-
     - [Monticello Sunrise](https://commonwealthjoe.com/collections/coffee/products/monticello-sunrise) Coffee
@@ -19,7 +19,7 @@ recipe:
     1. Let it bloom for 30-45 seconds (to release carbon dioxide)
     1. Going in circular motion, try to get 60% of your liquid into the brewer in the next 30 seconds (300g by 1:15).
     1. The dripper should be about full, gently keep pouring water to keep it full.
-    1. When it drains a bit, give it a bit of a swirl to ensure the coffee grounds form a flat bed. 
+    1. When it drains a bit, give it a bit of a swirl to ensure the coffee grounds form a flat bed.
 
 tags:
 ---
