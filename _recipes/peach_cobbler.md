@@ -2,6 +2,7 @@
 title: Peach Cobbler
 layout: recipe
 categories:
+  - comfort
 featured_image: https://source.unsplash.com/rqABly7c9j0
 from: https://www.tasteofhome.com/recipes/peach-cobbler/
 servings: 8
