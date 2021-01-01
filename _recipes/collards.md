@@ -6,7 +6,7 @@ servings: 4
 prep: 5M
 cook: 3H
 categories:
-  - Souther
+  - Southern
 recipe:
   ingredients_markdown: |-
     * 1/2 lbs hickory smoked bacon (chopped)
