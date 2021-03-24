@@ -12,10 +12,10 @@ video:
 recipe:
   ingredients_markdown: |-
     - 1 package tofu 14 to 16 ounces
-    - 4 ounces ground pork or beef
     - 1/2 medium onion finely diced
     - 2 scallions finely chopped
     - 1 tablespoon minced garlic
+    - 4 ounces ground pork or beef
     - 1/4 green bell pepper or 1 green chili pepper, finely diced
     - 1/4 red bell pepper or 1 red chili pepper, finely diced
 
@@ -32,7 +32,7 @@ recipe:
   directions_markdown: |-
     1. Prepare the vegetables as specified.
     1. Cut the tofu into about 1/2 to 3/4-inch thick cubes.
-    1. Heat a large pan with 2 tablespoons of oil over medium high heat. Add the onion, 1/2 of the chopped scallion, garlic, and gochugaru, and stir-fry until fragrant, 2 - 3 minutes.Korean-style mapa tofu
+    1. Heat a large pan with 2 tablespoons of oil over medium high heat. Add the onion, 1/2 of the chopped scallion, garlic, and gochugaru, and stir-fry until fragrant, 2 - 3 minutes.
     1. Add the meat, and cook until the meat is no longer pink, breaking up with a wooden spoon, 2 to 3 minutes.
     1. Add the soy sauce, doenjang, gochujang, and sugar and stir to blend with the meat. Add the bell peppers and cook briefly until slightly softened.
     1. Add 1-1/2 cups of water to the pan, and bring it to a boil.
