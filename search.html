@@ -29,5 +29,4 @@ var documents = [{% for data in site.recipes %}
   "content": "{{ data.recipe.ingredients_markdown | strip_html | strip_newlines | xml_escape }}"
 }{% unless forloop.last %},{% endunless %}{% endfor %}
 ];
-
 </script>
