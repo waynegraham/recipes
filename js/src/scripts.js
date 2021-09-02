@@ -38,10 +38,15 @@ $(function() {
         $.each(results, function(index, result) {
             entry = documents[result.ref];
             // Append the entry to the list.
-            $('#searchResults').append('<article class="recipe"><h1><a href="' + entry.url + '">' + entry.title + '</a></h1><div class="image"><img src="' + entry.image + '"/></div><p>' + entry.summary + '</p><p><a class="button" href="' + entry.url + '">Read more</a></p></article>');
+            $('#searchResults').append('
+            <article class="recipe">
+              <h1><a href="' + entry.url + '">' + entry.title + '</a></h1>
+              <div class="image"><img src="' + entry.image + '"/></div>
+              <p>' + entry.summary + '</p>
+              <p><a class="button" href="' + entry.url + '">Read more</a></p>
+            </article>');
         });
     });
-
 
 });
 

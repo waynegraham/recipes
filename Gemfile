@@ -9,8 +9,9 @@ source 'https://rubygems.org'
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll"
-gem 'html-proofer'
-gem 'ra11y'
+# gem 'html-proofer', require: false
+# gem 'ra11y'
+gem 'webrick' # needed for jekyll serve in Ruby 3
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # gem "minima", "~> 2.0"

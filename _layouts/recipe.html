@@ -9,9 +9,12 @@ layout: default
   {% endif %}
 
   {% include post-heading.html post=page post_page=true %}
+  
+  {% unless page.video %}
 	<div class="image">
 		<img src="{{ page.featured_image }}" alt="{{ page.title }}">
 	</div>
+  {% endunless %}
 
   <div class="from">
     <p>
