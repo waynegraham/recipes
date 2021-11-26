@@ -3,9 +3,9 @@ title: Pavolova
 from: https://sallysbakingaddiction.com/pavlova/
 layout: recipe
 featured_image: https://source.unsplash.com/AMGMIHBIT5g
-prep: 30M
-cook: 3H
-servings: 12
+prep: 20M
+cook: 90M
+servings: 8-10
 categories:
   - Pasta
 recipe:
