@@ -7,7 +7,7 @@ prep: 20M
 cook: 90M
 servings: 8-10
 categories:
-  - Pasta
+  - Desserts
 recipe:
   ingredients_markdown: |-
     - 4 large eggs
