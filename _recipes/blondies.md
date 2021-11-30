@@ -3,7 +3,7 @@ title: Blondies
 layout: recipe
 categories:
   - Dessert
-featured_image: https://smittenkitchendotcom.files.wordpress.com/2006/11/blondies1.jpg?w=1500
+featured_image: https://source.unsplash.com/JsQBjJJHg7E
 from: https://smittenkitchen.com/2006/11/blondies/
 video:
 servings: 16
