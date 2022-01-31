@@ -26,12 +26,13 @@ recipe:
     - salt
 
   directions_markdown: |-
-    1. Bring the water to a boil in a heavy pot over high heat and add the beef and garlic and cook for 5 minutes.
-    2. Turn the heat down to medium, cover, and cook for 20 to 25 minutes until the  beef  is  tender and  has  infused  the water  with  flavor.
-    3. Roast both sides of a sheet of gim until it’s bright green and very crispy. Put it in a plastic bag and crush it by hand. Set aside.
-    4. Separate the egg yolks from the whites of two eggs, putting yolks and whites into separate bowls. Add pinch of salt to each and mix with a fork. Remove the stringy chalaza from the yolks.
-    5. Add the cooking oil to a heated non-stick pan. Swirl the oil around so it covers the pan, and then wipe off the excess with a kitchen towel, leaving a thin oily layer on the pan.
-    6. Turn off the heat. Pour the egg yolk mixture into the pan and tilt it so it spreads evenly and thinly. Let it cook on the hot pan for about 1 minute. Flip it over and let it sit on the pan for another minute, then take it off, slice it into thin strips and set it aside.
-    7. Add the rice cake slices to the boiling soup along with fish sauce and kosher salt. Stir it with a ladle. Cover and let it cook for 7 to 8 minutes until all the rice cakes are floated and are softened throughout. Pour the egg whites by little by little into the soup and cook for 30  seconds.
-    8. Add sesame oil, ground black pepper, and chopped green onion. Stir the soup. Remove from the heat and ladle the rice cake soup into individual serving bowls. Garnish with yellow egg strips, crushed seaweed, and red pepper if you want.
+    1. Measure out tteok and soak for 30 minutes 
+    2. Bring the water to a boil in a heavy pot over high heat and add the beef and garlic and cook for 5 minutes.
+    3. Turn the heat down to medium, cover, and cook for 20 to 25 minutes until the  beef  is  tender and  has  infused  the water  with  flavor.
+    4. Roast both sides of a sheet of gim until it’s bright green and very crispy. Put it in a plastic bag and crush it by hand. Set aside.
+    5. Separate the egg yolks from the whites of two eggs, putting yolks and whites into separate bowls. Add pinch of salt to each and mix with a fork. Remove the stringy chalaza from the yolks.
+    6. Add the cooking oil to a heated non-stick pan. Swirl the oil around so it covers the pan, and then wipe off the excess with a kitchen towel, leaving a thin oily layer on the pan.
+    7. Turn off the heat. Pour the egg yolk mixture into the pan and tilt it so it spreads evenly and thinly. Let it cook on the hot pan for about 1 minute. Flip it over and let it sit on the pan for another minute, then take it off, slice it into thin strips and set it aside.
+    8. Add the rice cake slices to the boiling soup along with fish sauce and kosher salt. Stir it with a ladle. Cover and let it cook for 7 to 8 minutes until all the rice cakes are floated and are softened throughout. Pour the egg whites by little by little into the soup and cook for 30  seconds.
+    9. Add sesame oil, ground black pepper, and chopped green onion. Stir the soup. Remove from the heat and ladle the rice cake soup into individual serving bowls. Garnish with yellow egg strips, crushed seaweed, and red pepper if you want.
 ---
