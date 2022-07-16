@@ -3,7 +3,7 @@ title: Plantain and Ground Beef Casserole (Cacerola de Plátano y Carne Molida)
 layout: recipe
 categories:
   - Panamanian
-featured_image: https://source.unsplash.com/MNtag_eXMKw
+featured_image: https://source.unsplash.com/eRlfqFtiJi0
 from:
 servings: 2
 prep: 10M

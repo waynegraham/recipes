@@ -1,7 +1,7 @@
 ---
-title: Cá Kho Tộ
+title: Cá Kho Tộ (Braised Fix)
 layout: recipe
-featured_image:
+featured_image: https://source.unsplash.com/H_urbiR2roM
 from: https://www.hungryhuy.com/ca-kho-to-recipe-vietnamese-braised-fish/
 categories:
   - Vietnamese

@@ -2,7 +2,7 @@
 title: Pan con Chicharron
 layout: recipe
 category: Peruvian
-featured_image: https://source.unsplash.com/MNtag_eXMKw
+featured_image: https://source.unsplash.com/pHeX8H9WQpY
 from:
 servings: 4
 prep: 10M
@@ -10,7 +10,6 @@ cook: 2H
 video:
 recipe:
   ingredients_markdown: |-
-
     **Pork**
 
     - 1 lb. pork chop, bone in
@@ -18,17 +17,17 @@ recipe:
     - 1/4 cup salt
     - 4 brioch sandwich buns
 
-    ** Braise **
+    **Braise**
 
     - 1 yellow onion, quartered
     - 1 bay leaf
 
-    ** Sweet Potato **
+    **Sweet Potato**
 
     - 1 large sweet potato
     - olive oil
 
-    ** Salsa Criolla**
+    **Salsa Criolla**
 
     - 2 habanero peppers, julienned
     - 1 yellow onion, julienned
@@ -37,8 +36,7 @@ recipe:
     - fresh cilantro
 
   directions_markdown: |-
-
-    ** Pork **
+    **Pork**
 
     1. Make a brine with water and salt. Add pork and brine overnight in the fridge.
     1. Discard brine the next day.
@@ -47,7 +45,7 @@ recipe:
     1. When the braising liquid has completely evaporated, continue to cook the pork in its own fat for a few minutes to brown it. Remove from heat and set aside.
     1. Remove the meat from the bone and cut into 4 large pieces.
 
-    ** Salsa Criolla**
+    **Salsa Criolla**
 
     You can make this beforehand.
     1 Stem and vein the peppers
@@ -55,7 +53,7 @@ recipe:
     1 Add the juice of 1 lime
     1 Season with salt and pepper
 
-    ** Sweet Potato **
+    **Sweet Potato**
 
     * In a skillet with olive oil over medium heat with, brown all the pieces before serving. In the same skillet, brown the sweet potato rounds.
 

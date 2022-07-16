@@ -1,7 +1,7 @@
 ---
 title: Chile Lemongrass Sate
 layout: recipe
-featured_image:
+featured_image: https://source.unsplash.com/8502DXwY-7U
 from: https://bunbobae.com/vietnamese-chile-lemongrass-sate-sauce-tuong-ot-sa-te/
 video:
 servings: 4
