@@ -1,7 +1,7 @@
 ---
 title: Nem Nuong
 layout: recipe
-categories:
+categories: Vietnamese
 featured_image: https://source.unsplash.com/L7dVTV02afU
 from: https://www.vickypham.com/blog/vietnamese-grilled-pork-nem-nuong
 servings: 8
