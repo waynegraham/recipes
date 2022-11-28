@@ -10,7 +10,7 @@ category: Peruvian
 recipe:
   ingredients_markdown: |-
     - 3 tbsp Extra Virgin Olive Oil, divided
-    - 1/2 an onion (about a cup)
+    - ½ an onion (about a cup)
     - 2 cloves garlic, minced
     - 1 packet Sazón Goya
     - 1 packet Ham Concentrate
