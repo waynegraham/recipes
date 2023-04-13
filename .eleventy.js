@@ -110,6 +110,7 @@ module.exports = (config) => {
             includes: "_includes",
             data: "_data",
         },
+        pathPrefix: "/recipes/",
         passthroughFileCopy: true,
     };
 };

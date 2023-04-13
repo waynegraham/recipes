@@ -1,7 +1,7 @@
 {
   "name": "my-online-cookbook",
   "version": "0.1.0",
-  "description": "A starter kit to make your own online recipe cookbook",
+  "description": "Recipe collection collected from around the Internet",
   "main": "index.js",
   "scripts": {
     "dev:css": "sass src/scss/main.scss:src/_includes/css/main.css --watch --style=compressed",
@@ -9,9 +9,9 @@
     "dev": "npm-run-all --parallel dev:css dev:11ty",
     "prod:css": "sass src/scss/main.scss:src/_includes/css/main.css --style=compressed",
     "prod:11ty": "eleventy",
-    "build": "npm-run-all prod:css prod:11ty"
+    "build": "env NODE_ENV=production npm-run-all prod:css prod:11ty"
   },
-  "author": "Maël Brunet",
+  "author": "Wayne Graham",
   "license": "MIT",
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
