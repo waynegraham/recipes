@@ -3,7 +3,7 @@ title: Blondies
 image: https://source.unsplash.com/JsQBjJJHg7E
 tags:
   - Sweet 🍬
-  - Favourite ⭐
+  - Favorite ⭐
 sourceURL: https://smittenkitchen.com/2006/11/blondies/
 sourceLabel: Smitten Kitchen
 servings: 16

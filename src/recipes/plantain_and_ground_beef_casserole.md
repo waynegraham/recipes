@@ -2,7 +2,7 @@
 title: Plantain and Ground Beef Casserole (Cacerola de Plátano y Carne Molida)
 tags:
   - Panamanian 🇵🇦
-image: sweet-plantain-and-picadillo-casserole-pastelón.jpg
+image: img/recipes/sweet-plantain-and-picadillo-casserole.jpg
 sourceURL:
 sourceLabel: Diane Rameriz
 servings: 2

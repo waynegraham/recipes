@@ -6,7 +6,7 @@ sourceURL: https://www.foodandwine.com/recipes/caramelized-black-pepper-chicken
 tags:
   - Vietnamese 🇻🇳
   - Chicken 🍗
-  - Favourite ⭐
+  - Favorite ⭐
 servings: 4
 prep: 10M
 cook: 35M
