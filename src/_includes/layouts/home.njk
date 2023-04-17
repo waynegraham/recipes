@@ -40,13 +40,13 @@ bodyClass: c-home
                                     </div>
                                 {% endif %}
                             </div>
-                            <a class="c-card__title-wrapper" href="{{ recipe.url }}">
+                            <a class="c-card__title-wrapper" href="{{ recipe.url | url }}">
                                 <h3 class="c-card__title">{{ recipe.data.title }}</h3>
                             </a>
                         </div>
                     {% endfor %}
                 </div>
-                <a href="/tags/{{ highlightedTag | noEmoji | slug }}" class="c-home__highlighted-tag-link">{{ highlightedLinkText }}</a>
+                <a href="/recipes/tags/{{ highlightedTag | noEmoji | slug }}" class="c-home__highlighted-tag-link">{{ highlightedLinkText }}</a>
             </div>
         </section>
     {% endif %}

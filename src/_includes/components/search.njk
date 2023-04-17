@@ -5,7 +5,7 @@
             if (sessionStorage.getItem('searchResults')) {
                 searchResults = JSON.parse(sessionStorage.getItem('searchResults'));
             } else {
-                fetch('/search.json').then(res => res.json()).then(res => {
+                fetch('/recipes/search.json').then(res => res.json()).then(res => {
                     sessionStorage.setItem('searchResults', JSON.stringify(res));
                     searchResults = res;
                 });

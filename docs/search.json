@@ -3,490 +3,490 @@
     
         {
             "title" : "10 Minute Garlic Bok Choy",
-            "url" : "/recipes/bok_choy/",
+            "url" : "/recipes/recipes/bok_choy/",
             "ingredients" : ["1 tbsp vegetable oil","5 cloves garlic, minced","2 large shallots, minced","2 pounds baby bok choy, halved or quartered","2 tbsp soy sauce","1 tsp sesame oil","1 tsp crushed red pepper, optional"],
             "tags" : ["Korean 🇰🇷","Vegetarian 🌿","Vegan 🌱"]
         },
     
         {
             "title" : "Cá Kho Tộ (Braised Fish)",
-            "url" : "/recipes/braised_fish/",
+            "url" : "/recipes/recipes/braised_fish/",
             "ingredients" : ["1 lbs catfish fillets (or other neutral fish)","salt to clean the fish","2 tbls oil","5 cloves of minced garlic","1 large shallot sliced (or 1/2 yellow onion)","2 tbls oil","5 cloves of minced garlic","1 large shallot sliced (or 1/2 yellow onion)","1 tsp salt","1 tbls fish sauce (adjust to taste, but use [Red Boat](https://redboatfishsauce.com/)! )","Splash of dark soy sauce","1/2 cup water","1/2 cup coconut juice","1 sliced chili (whatever you have)","Freshly ground black pepper","Green onion","Sliced red chili","Freshly ground black pepper"],
             "tags" : ["Vietnamese 🇻🇳","Fish 🐟"]
         },
     
         {
             "title" : "Caramelized Black Pepper Chicken",
-            "url" : "/recipes/carmelized_black_pepper_chicken/",
+            "url" : "/recipes/recipes/carmelized_black_pepper_chicken/",
             "ingredients" : ["1/2 cup dark brown sugar","~1/4 cup fish sauce (adjust to taste, but use [Red Boat](https://redboatfishsauce.com)! )","1/4 water","3 tablespoons rice vinegar","2 cloves minced garlic","~1&quot; finely grated ginger","1 teaspoon coarsely ground pepper (use a mortar and pestle and leave some chunky bits)","2 fresh Thai chilies, halved (or dried red chilies)","1 tablespoon oil","1 shallot, thinly sliced","1 pound of skinless, deboned chicken thighs in 1-inch pieces","4 cilantro sprigs"],
             "tags" : ["Vietnamese 🇻🇳","Chicken 🍗","Favorite ⭐"]
         },
     
         {
             "title" : "Irish Cheddar Spring Onion Biscuits",
-            "url" : "/recipes/cheddar-biscuits/",
+            "url" : "/recipes/recipes/cheddar-biscuits/",
             "ingredients" : ["2 cups self-rising flour","1/4 cup Crisco","1/2 cup shredded Cheddar cheese","1/4 green onions"],
             "tags" : ["Bread 🍞"]
         },
     
         {
             "title" : "Cheese Grits",
-            "url" : "/recipes/cheese-grits/",
+            "url" : "/recipes/recipes/cheese-grits/",
             "ingredients" : ["1 1/2 cup of chicken broth","1/2 cup of milk","salt","pepper","1/2 cup grits","2 green onions","smoked paprika","Cheddar Cheese","Parmesan","Couple dashes of hot sauce"],
             "tags" : ["American 🇺🇸","Comfort Food 🧸 Food 🧸"]
         },
     
         {
             "title" : "Chicken Marinade",
-            "url" : "/recipes/chicken-marinade/",
+            "url" : "/recipes/recipes/chicken-marinade/",
             "ingredients" : ["1/3 cup olive oil","1/4 apple cider vinegar","3 tbls Worcestershire","2 tbls dijon mustard","2 tbls lemon juice","2 tbls Italian seasoning","1 tbls salt","1 tbls pepper","1 tbls sugar","1 tsp garlic powder","4 boneless chicken thighs"],
             "tags" : ["Chicken 🍗"]
         },
     
         {
             "title" : "Chinese Poached Chicken",
-            "url" : "/recipes/chinese-poached-chicken/",
+            "url" : "/recipes/recipes/chinese-poached-chicken/",
             "ingredients" : ["Whole Chicken","2 star anise","5cm ginger (sliced)","1 bulb of garlic, halved","1/3 cup Chinese cooking wine","1/4 cup white sugar","1/3 cup soy sauce"],
             "tags" : ["Chinese 🇨🇳"]
         },
     
         {
             "title" : "Pourover Coffee",
-            "url" : "/recipes/coffee/",
+            "url" : "/recipes/recipes/coffee/",
             "ingredients" : ["30g coffee (1:17 ratio)","500g water"],
             "tags" : ["Coffee ☕"]
         },
     
         {
             "title" : "Collards",
-            "url" : "/recipes/collards/",
+            "url" : "/recipes/recipes/collards/",
             "ingredients" : ["1/2 lbs hickory smoked bacon (chopped)","1 medium onion, finely chopped","Ham steak","3 garlic cloves","6 cups chicken broth/stock","Package of fresh collards (washed)","5 Tbls apple cider vinegar (or the like)","1 tsp sugar","salt/pepper to taste","Splash of hotsauce (optional)"],
             "tags" : ["American 🇺🇸","Comfort Food 🧸"]
         },
     
         {
             "title" : "Cornbread",
-            "url" : "/recipes/cornbread/",
+            "url" : "/recipes/recipes/cornbread/",
             "ingredients" : ["1 cup Indian Head Corn Meal","1 cup all-purpose flour","¼ cup sugar","1 teaspoon salt","3 teaspoons baking powder","¼ cup oil","1 cup milk","1 egg, beaten"],
             "tags" : ["American 🇺🇸","Comfort Food 🧸"]
         },
     
         {
             "title" : "Daal",
-            "url" : "/recipes/daal/",
+            "url" : "/recipes/recipes/daal/",
             "ingredients" : [],
             "tags" : ["Indian 🇮🇳","Vegetarian 🌿","Vegan 🌱"]
         },
     
         {
             "title" : "Dakjuk (닭죽)",
-            "url" : "/recipes/dakjuk/",
+            "url" : "/recipes/recipes/dakjuk/",
             "ingredients" : ["1 cup short grain rice or sweet rice glutinous rice","6 cups chicken stock (see notes)","1 to 1-1/2 cups pulled chicken seasoned with salt, garlic, sesame oil, pepper","1 medium carrot","1 celery stalk","3 to 4 mushroom caps","2 tablespoons sesame oil","Finely chopped scallion","Sesame seeds"],
             "tags" : ["Korean 🇰🇷","Chicken 🍗"]
         },
     
         {
             "title" : "Eomukguk (어묵국)",
-            "url" : "/recipes/eomukguk/",
+            "url" : "/recipes/recipes/eomukguk/",
             "ingredients" : ["1 lbs fish cakes","4 or 5 wooden skewers","12 cups of water","1/2 lbs Korean radish","20 large dried anchovies (remove guts)","1 cup diced onion","1 sheet dried kelp (7&quot;x8&quot;)","2 tsp soy sauce","1 tsp salt","¼ cup soy sauce","½ ts sugar","1 ts hot pepper flakes","1 garlic cloves, minced","1 green onion,chopped","1 green chili pepper (or jalapeño), chopped","1 ts toasted sesame oil","1 ts toasted sesame seeds"],
             "tags" : ["Korean 🇰🇷","Soup 🥣"]
         },
     
         {
             "title" : "Ginger Scones",
-            "url" : "/recipes/ginger_scones/",
+            "url" : "/recipes/recipes/ginger_scones/",
             "ingredients" : ["3 cups all purpose flour (400 g)","3/4 cup sugar (160 g)","1 teaspoon baking soda","1/2 teaspoon baking powder","1/4 teaspoon salt","3/4 cup candied ginger (chopped into 1/4-inch pieces or smaller) (3 1/2 ounces or 110 g)","1 tablespoon lemon zest","1 tablespoon grated fresh ginger","3/4 cup buttermilk* (200 ml) - (or make it with milk and 1 tbls vinegar)","10 tablespoons (5 ounces, 140 g) unsalted butter, melted","1 tablespoon coarse sugar for sprinkling on top (optional)"],
             "tags" : ["Sweet 🍬","Sharable"]
         },
     
         {
             "title" : "Ginger Soy Chicken (ไก่เค็ม)",
-            "url" : "/recipes/ginger_soy_chicken/",
+            "url" : "/recipes/recipes/ginger_soy_chicken/",
             "ingredients" : ["500g chicken thigh, cut into 1½” cubes","1½ Tbsp soy sauce","1 Tbsp Golden Mountain sauce","2 tsp black soy sauce","4-5 cloves garlic, chopped","2 Tbsp chopped ginger","1½ Tbsp palm sugar, finely chopped","¼ tsp ground white pepper","⅓ cup chopped cilantro, stems included","Fresh julienned ginger for garnish, optional","Jasmine rice for serving"],
             "tags" : ["Thai 🇹🇭"]
         },
     
         {
             "title" : "Gnocchi with Pomodoro Sauce",
-            "url" : "/recipes/gnocchi_with_pomodoro_sauce/",
+            "url" : "/recipes/recipes/gnocchi_with_pomodoro_sauce/",
             "ingredients" : ["1/4 cup DeLallo extra virgin olive oil plus 1 tablespoons","4 stems fresh Italian flat leaf parsley","4 stems fresh oregano","2 stems fresh rosemary","2 stems fresh basil plus 2 more stems for garnish","1/2 yellow onion diced","3 cloves garlic pressed or minced","1 28 ounce can DeLallo San Marzano tomatoes","Kosher salt and freshly ground black pepper","Pinch of red pepper flakes","1/4 cup heavy cream optional","1 16- ounce package DeLallo potato gnocchi","8 ounces cherry size mozzarella balls cut in half","1/2 cup freshly grated Parmesan cheese"],
             "tags" : ["Pasta 🍝","Italian 🇮🇹"]
         },
     
         {
             "title" : "Grandma&#39;s Twice Cooked Chicken",
-            "url" : "/recipes/grandmas_chicken/",
+            "url" : "/recipes/recipes/grandmas_chicken/",
             "ingredients" : ["bone-in chicken thighs, 1 small breast (670g total weight)","3 cloves garlic","8 slices ginger","Lemongrass tops, if you have it","1/2 tsp salt","6 cloves garlic","4 slices ginger","1 Tbsp + 1 tsp palm sugar, chopped","1 1/2 – 2 Tbsp soy sauce (see note)","Salt as needed","A dash black soy sauce","¼ tsp black pepper","Chopped cilantro, optional","2 Tbsp finely chopped ginger","2 cloves garlic","2 Thai chilies","2 Tbsp chopped cilantro stems","2 Tbsp soy sauce","2 Tbsp  lime juice","1/2 tsp sugar"],
             "tags" : ["Thai 🇹🇭"]
         },
     
         {
             "title" : "Green Onion Eggs",
-            "url" : "/recipes/green-onion-eggs/",
+            "url" : "/recipes/recipes/green-onion-eggs/",
             "ingredients" : ["2 Eggs","10 inch piece of green onion","1 TablespoonSesame oil","1/2 teaspoon soup soy sauce (regular isn&#39;t as good)"],
             "tags" : ["Korean 🇰🇷"]
         },
     
         {
             "title" : "Korean Egg Roll (Gyeran Mari - 계란말이)",
-            "url" : "/recipes/gyeran_mari/",
+            "url" : "/recipes/recipes/gyeran_mari/",
             "ingredients" : ["5 large eggs","1 Tbsp rice wine","1/4 tsp fine sea salt","1 Tbsp green onion , chopped","1/4 cup shredded mozzarella cheese","Some cooking oil"],
             "tags" : ["Korean 🇰🇷"]
         },
     
         {
             "title" : "Lowcountry Hoppin&#39; John and Sausage",
-            "url" : "/recipes/hoppin-john/",
+            "url" : "/recipes/recipes/hoppin-john/",
             "ingredients" : ["3/4 - 1 pound bulk sausage (to taste)","1/2 cup chopped green pepper","1/4 cup chopped onion","1 garlic clove, minced","1 can diced tomatoes","1/4 teaspoon black pepper","1/4 - 1/2 teaspoon fresh oregano","1/4 - 1/2 teaspoon rosemary (to taste)","1 can blackeye peas (Bush&#39;s)","hotsauce to taste"],
             "tags" : ["American 🇺🇸","Comfort Food 🧸"]
         },
     
         {
             "title" : "Hotteok (호떡)",
-            "url" : "/recipes/hotteok/",
+            "url" : "/recipes/recipes/hotteok/",
             "ingredients" : ["1 cup lukewarm water","2 tbs sugar","2 ts yeast","1/2 ts salt","1 tbs vegetable oil","2 cups flour","1/2 cup brown sugar","1 ts cinnamon powder","2 tbs chopped nuts"],
             "tags" : ["Korean 🇰🇷"]
         },
     
         {
             "title" : "Lasagna",
-            "url" : "/recipes/lasagna/",
+            "url" : "/recipes/recipes/lasagna/",
             "ingredients" : ["1 pound sweet Italian sausage","3/4 pound lean ground beef","1/2 cup minced onion","2 cloves garlic, crushed","1 (28 ounce) can crushed tomatoes","2 (6 ounce) cans tomato paste","2 (6.5 ounce) cans canned tomato sauce","1/2 cup water","2 tablespoons white sugar","1 1/2 teaspoons dried basil leaves","1/2 teaspoon fennel seeds","1 teaspoon Italian seasoning","1 teaspoon salt","1/4 teaspoon ground black pepper","4 tablespoons chopped fresh parsley","12 lasagna noodles","1 pound mozzarella cheese, sliced or shredded.","1 cup grated Parmesan cheese"],
             "tags" : ["Pasta 🍝","Italian 🇮🇹"]
         },
     
         {
             "title" : "Chile Lemongrass Sate",
-            "url" : "/recipes/lemongrass_sate/",
+            "url" : "/recipes/recipes/lemongrass_sate/",
             "ingredients" : ["1 cup neutral oil","1 head of garlic, minced","1/2 cup lemongrass, finely chopped","1/2 cup fresh red chiles, finely chopped (Thai or Birds Eye)","1/4 cup crushed red chilies","1/2 teaspoon salt"],
             "tags" : ["Vietnamese 🇻🇳"]
         },
     
         {
             "title" : "Lexington BBQ Dip Saunce",
-            "url" : "/recipes/lexington_bbq/",
+            "url" : "/recipes/recipes/lexington_bbq/",
             "ingredients" : ["1 cup distilled white vinegar","1/4 cup ketchup","1/4 cup apple juice","1 teaspoon hot sauce","3 tablespoons light brown sugar","1/2 tablespoon Morton coarse salt","1 teaspoon crushed red pepper","1 teaspoon finely ground black pepper"],
             "tags" : ["American 🇺🇸","Comfort Food 🧸"]
         },
     
         {
             "title" : "Mapo Tofu (Korean Style)",
-            "url" : "/recipes/mapo_tofu/",
+            "url" : "/recipes/recipes/mapo_tofu/",
             "ingredients" : ["1 package tofu 14 to 16 ounces","1/2 medium onion finely diced","2 scallions finely chopped","1 tablespoon minced garlic","4 ounces ground pork or beef","1/4 green bell pepper or 1 green chili pepper, finely diced","1/4 red bell pepper or 1 red chili pepper, finely diced","2 tablespoons canola or vegetable oil or chili oil","1 tablespoon gochugaru 고추가루, Korean red chili pepper flakes","2 tablespoons soy sauce","1 tablespoon doenjang 된장, Korean fermented soybean paste","1/2 tablespoon gochujang 고추장, Korean red chili pepper paste","1 teaspoon sugar or add one more teaspoon for a sweeter taste","2 teaspoons sesame oil","1 tablespoon starch mixed with 2 tablespoons water"],
             "tags" : ["Korean 🇰🇷","Favorite ⭐"]
         },
     
         {
             "title" : "Massaman Curry",
-            "url" : "/recipes/massaman_curry/",
+            "url" : "/recipes/recipes/massaman_curry/",
             "ingredients" : ["4 pc bone-in dark meat chicken","1 can (500 ml) coconut milk","1 can  Massaman curry paste","2-3 Tbsp finely chopped palm sugar, or brown or granulated sugar.","1-2 Tbsp fish sauce","2-3 Tbsp tamarind juice, you can use pre-made juice or make you own","1 medium potato or sweet potato, cut into 1.5” chunks","1 small yellow onion, cut into 1 cm strips","1/4 cup roasted whole peanuts"],
             "tags" : ["Thai 🇹🇭"]
         },
     
         {
             "title" : "Pad Krapow Gai",
-            "url" : "/recipes/pad-krapow-gai/",
+            "url" : "/recipes/recipes/pad-krapow-gai/",
             "ingredients" : ["1/3 cup broth (chicken or other)","1 tbls soy sauce","1 tbls oyster sauce","2 tsp fish sauce","1 lump of palm sugar","1 pound of chopped chicken thighs","1/4 cup sliced shallots","4 cloves of garlic, minced","4 thai chilis","1 bunch of basil leaves, thinly sliced"],
             "tags" : ["Thai 🇹🇭"]
         },
     
         {
             "title" : "Pan con Chicharron",
-            "url" : "/recipes/pan_con_chicharron/",
+            "url" : "/recipes/recipes/pan_con_chicharron/",
             "ingredients" : ["1 lb. pork chop, bone in","4 cups water","1/4 cup salt","4 brioch sandwich buns","1 yellow onion, quartered","1 bay leaf","1 large sweet potato","olive oil","2 habanero peppers, julienned","1 yellow onion, julienned","1 lime","salt/pepper to taste","fresh cilantro"],
             "tags" : ["Peruvian 🇵🇪"]
         },
     
         {
             "title" : "Pancakes",
-            "url" : "/recipes/pancakes/",
+            "url" : "/recipes/recipes/pancakes/",
             "ingredients" : ["3/4 cup of milk","2 tbs white vinegar","1 cup all-purpose flour","2 tbs white sugar","1 tsp baking powder","1/2 tsp salt","1/2 tsp baking soda","1 egg","2 tbs melted butter"],
             "tags" : ["American 🇺🇸","Comfort Food 🧸"]
         },
     
         {
             "title" : "Pasta Sauce",
-            "url" : "/recipes/pasta_sauce/",
+            "url" : "/recipes/recipes/pasta_sauce/",
             "ingredients" : ["1 1/2 to 2 lbs. meatloaf mix","2 eggs","More or less 1/4 cup ketchup","seasoned bread crumbs","1/2 cup finely chopped fresh onion","2-3 tbs. minced parsley, dried or fresh","handful grated Romano or parmesan cheese","salt and pepper","Olive oil","2 lbs. sweet Italian sausage","2 fresh pork hocks, or several meaty spare ribs or a wheel of cheese and parsley sausage, cut in pieces","1 large onion, diced (1-1 1/2 cups)","4-5 cloves garlic, crushed and minced","8 28oz. cans of Italian tomatoes or puree","Small can of tomato paste if using whole tomatoes","About 2 tbs. dried oregano","About 3 tbs. dried basil","salt and pepper","Large handful of grated Locatelli"],
             "tags" : ["Pasta 🍝","Italian 🇮🇹"]
         },
     
         {
             "title" : "Pavolova",
-            "url" : "/recipes/pavlova/",
+            "url" : "/recipes/recipes/pavlova/",
             "ingredients" : ["4 large eggs","1 cup (200g) superfine sugar","1 teaspoon pure vanilla extract","1/2 teaspoon cream of tartar","1 teaspoon cornstarch","Whipped Cream","Fresh berries","Lemon curd","Strawberry topping"],
             "tags" : ["Desserts 🍰"]
         },
     
         {
             "title" : "Peach Cobbler",
-            "url" : "/recipes/peach_cobbler/",
+            "url" : "/recipes/recipes/peach_cobbler/",
             "ingredients" : ["1 stick of butter","1 (15.4oz) can of peaches","1 cup of sugar","1 cup all purpose flour","2 teaspoons baking powder","1/4 teaspoon kosher salt","1 cup of milk","1/4 cup of sugar"],
             "tags" : ["Comfort Food 🧸","Desserts 🍰"]
         },
     
         {
             "title" : "Salsa Criolla",
-            "url" : "/recipes/peruvian-salsa/",
+            "url" : "/recipes/recipes/peruvian-salsa/",
             "ingredients" : ["2 red onions (sliced into very thin half moons)","[object Object]","1 tablespoon cilantro (chopped fresh, or parsley, or a combination of both)","2 tablespoons lime juice (freshly squeezed)","1 tablespoon vinegar","salt and pepper to taste"],
             "tags" : ["Peruvian 🇵🇪"]
         },
     
         {
             "title" : "Pizza",
-            "url" : "/recipes/pizza/",
+            "url" : "/recipes/recipes/pizza/",
             "ingredients" : ["3/4 cup warm water (105°F to 115°F)","2 1/4 teaspoon active dry yeast (1 packet)","250 grams all purpose flour","1 teaspoon sugar","3/4 teaspoon salt","3 tablespoons olive oil","1 14 oz. can of San Marzano crushed tomatoes (Polpa di Pomodoro)","3 thinly sliced garlic cloves (1/32&quot; on the mandolin)","Olive oil (~1/2 tablespoon)","Kosher salt (a pinch)","Dry oregano (~1 tablespoon)"],
             "tags" : ["Comfort Food 🧸"]
         },
     
         {
             "title" : "Plantain and Ground Beef Casserole (Cacerola de Plátano y Carne Molida)",
-            "url" : "/recipes/plantain_and_ground_beef_casserole/",
+            "url" : "/recipes/recipes/plantain_and_ground_beef_casserole/",
             "ingredients" : ["8 very mature plantains (almost black)","2 pounds ground beef","2 onions (diced)","3 stalks of celery (finely chopped)","2 leaves sawtooth coriander","8 crushed garlic cloves","1 green pepper, diced","4 ounces of tomato paste","2 tablespoons Worcestershire sauce","1/2 cup of stuff olives, washed and chopped","1 teaspoon salt","2 eggs","Vegetable oil","Chili pepper (to taste)"],
             "tags" : ["Panamanian 🇵🇦"]
         },
     
         {
             "title" : "Pot Stickers",
-            "url" : "/recipes/pot_stickers/",
+            "url" : "/recipes/recipes/pot_stickers/",
             "ingredients" : ["1 pound ground pork","4 cloves minced garlic","1/2 cup finely chopped green onions","3 tablespoons very finely minced ginger","2 tablespoons + 1 teaspoon soy sauce","1 teaspoon sesame oil","Shake of cayenne","1 1/2 cups finely chopped green cabbage","2 1/2 cups all purpose flour","3/4 teaspoon kosher salt","1 cup hot water (130-150F)","1/4 cup rice wine vinegar","1/4 cup soy sauce","Crushed garlic","Minced green onions","Minced ginger","Chili sauce","Hot sauce"],
             "tags" : ["Comfort Food 🧸"]
         },
     
         {
             "title" : "Pretzel",
-            "url" : "/recipes/pretzels/",
+            "url" : "/recipes/recipes/pretzels/",
             "ingredients" : ["1 and 1/2 cups (360ml) warm water (lukewarm-- no need to take temperature)","1 packet active dry or instant yeast (2 and 1/4 teaspoons)","1 teaspoon salt","1 Tablespoon brown sugar","1 Tablespoon unsalted butter, melted and slightly cool","3 and ¾  - 4 cups (460-500g) all-purpose flour, plus more for work surface","coarse sea salt for sprinkling","½ cup (120g) baking soda","9 cups (2,160ml) water"],
             "tags" : ["Bread 🍞","German 🇩🇪"]
         },
     
         {
             "title" : "Red Chili Oil",
-            "url" : "/recipes/red_chili_oil/",
+            "url" : "/recipes/recipes/red_chili_oil/",
             "ingredients" : ["150g dried red peppers","2 cups oil (e.g. peanut)","1 - 2 slices ginger","3 star anise","2 - 3 bay leaves","1 stick cinnaman","8 - 10 cloves","1 tsp fennel or carraway seeds","1 tsp sichuan peppercorns","1 tbsp paprika"],
             "tags" : ["Chinese 🇨🇳"]
         },
     
         {
             "title" : "Refried Beans",
-            "url" : "/recipes/refried_beans/",
+            "url" : "/recipes/recipes/refried_beans/",
             "ingredients" : ["1 tablespoons oil (canola)","2 garlic cloves (peeled)","15 ounce can of pinto beans","1 teaspoon cumin","1 teaspoon 고추가루","salt to taste","Juice from 1/2 lime"],
             "tags" : ["Mexican 🇲🇽"]
         },
     
         {
             "title" : "Roasted Brussels Sprouts",
-            "url" : "/recipes/roasted_brussels_sprouts/",
+            "url" : "/recipes/recipes/roasted_brussels_sprouts/",
             "ingredients" : ["3 tbsp olive oil","2 pounds Brussels sprouts, washed, trimmed and cut in half","2 tbsp Butter","1.5 tsp red chili flakes","8 cloves Garlic, minced","1 lemon, zest and juice","salt + pepper, to taste"],
             "tags" : ["American 🇺🇸"]
         },
     
         {
             "title" : "Sancocho",
-            "url" : "/recipes/sancocho/",
+            "url" : "/recipes/recipes/sancocho/",
             "ingredients" : ["1 roasting chicken, cut into pieces (you can also just use 3-4 whole chicken breasts)","3 teaspoons salt","1 tablespoon cilantro, minced","1 teaspoon dried oregano","3 garlic cloves, minced","2 teaspoons olive oil","1  large onion, chopped into bite-sized pieces","3 lbs yucca root, peeled and chopped into bite-sized pieces (also called cassava)","4 cups chicken stock (the kind bought in a box is fine)","salt and pepper"],
             "tags" : ["Panamanian 🇵🇦"]
         },
     
         {
             "title" : "Sauerkraut",
-            "url" : "/recipes/sauerkraut/",
+            "url" : "/recipes/recipes/sauerkraut/",
             "ingredients" : ["Cabbage","Salt (10g per pound of cabbage)","Mustard seeds (1 tsp per 3 lbs)","Caraway seeds (1 tsp per 3 lbs)","Garlic cloves crushed and chopped (2 per 3 lbs)"],
             "tags" : ["German 🇩🇪"]
         },
     
         {
             "title" : "Homemade &quot;Shin Ramyun&quot;",
-            "url" : "/recipes/shin_ramyun/",
+            "url" : "/recipes/recipes/shin_ramyun/",
             "ingredients" : ["2 tsps vegetable oil","2 spring onion (scallion), thinly sliced (you will need both the white and the green section)","1&quot; ginger, peeled and roughly sliced","8 - 10 shiitake mushrooms, sliced (I use dried, soak in warm water for 20 minutes)","1 tablespon Korean hot bean paste (Gochujang) – adjust to taste","4 cups vegetable stock (Chicken broth and stock also work)","1 cup recently boiled water","1 x 90g (3 ounces) bundle of udon noodles (I frozen Udon)","2 drops of sesame oil per bowl","Salt, pepper, MSG to taste","Corn (optional)","2 eggs (optional)"],
             "tags" : ["Korean 🇰🇷"]
         },
     
         {
             "title" : "Soup Beans",
-            "url" : "/recipes/soup_beans/",
+            "url" : "/recipes/recipes/soup_beans/",
             "ingredients" : ["1 pound dried pinto beans","1 ½ teaspoons country ham or bacon drippings","8 ounces streaked meat (sliced fatback), diced","1 large Vidalia onion","2 fresh bay leaves","1 tablespoon ground black pepper","1 teaspoon dried turmeric","1 ½ teaspoons kosher salt","2 ½ tablespoons hot sauce"],
             "tags" : ["American 🇺🇸","Comfort Food 🧸"]
         },
     
         {
             "title" : "Steamed Eggs (Gyeran jjim 부드러운 계란찜 만들기)",
-            "url" : "/recipes/steamed-eggs/",
+            "url" : "/recipes/recipes/steamed-eggs/",
             "ingredients" : ["3 Eggs","¾ tsp. Salt","¾ tsp. Fish sauce","1½ tsp. Mirin","1 cup chicken stock"],
             "tags" : ["Korean 🇰🇷"]
         },
     
         {
             "title" : "Sticky Garlic Chips",
-            "url" : "/recipes/sticky-garlic-chips/",
+            "url" : "/recipes/recipes/sticky-garlic-chips/",
             "ingredients" : ["30 cloves garlic","2 tablespoon Corn syrup (or use honey)","1.5 Tablespoon Soy sauce","1 Tablespoon Mirin","Sesame seeds"],
             "tags" : ["Korean 🇰🇷"]
         },
     
         {
             "title" : "Taco Seasoning",
-            "url" : "/recipes/taco_seasoning/",
+            "url" : "/recipes/recipes/taco_seasoning/",
             "ingredients" : ["1 tbs chili powder","1/4 teaspoon garlic powder","1/4 teaspoon onion powder","1/4 teaspoon crushed red peper flakes (optional)","1/4 teaspoon dried oregano","1/2 teaspoon paprika","1 1/2 teaspoons cumin","1 teaspoon sea salt","1 teaspoon black pepper","1/2 tbs flour","2/3 cup water"],
             "tags" : ["Mexican 🇲🇽"]
         },
     
         {
             "title" : "Tacu Tacu",
-            "url" : "/recipes/tacu-tacu/",
+            "url" : "/recipes/recipes/tacu-tacu/",
             "ingredients" : ["3 tbsp Extra Virgin Olive Oil, divided","½ an onion (about a cup)","2 cloves garlic, minced","1 packet Sazón Goya","1 packet Ham Concentrate","1/8 Oregano","1 can Canary beans (undrained)","Adobo seasoning","2 cups cooked Rice"],
             "tags" : ["Peruvian 🇵🇪"]
         },
     
         {
             "title" : "Takoyaki",
-            "url" : "/recipes/takoyaki/",
+            "url" : "/recipes/recipes/takoyaki/",
             "ingredients" : ["100g all-purpose floured surface","1 cup water","1 egg","1 tsp dashi powder (granules)","1/2 teaspoon soy sauce","1/2 teaspoon salt","100g fish cake","1 bunch of green onions","1/2 teaspoon takoyaki sauce","1/2 cup katsuobuisi (bonito flakes)","Japanese mayo"],
             "tags" : ["Japanese 🇯🇵"]
         },
     
         {
             "title" : "Tortillas",
-            "url" : "/recipes/tortillas/",
+            "url" : "/recipes/recipes/tortillas/",
             "ingredients" : ["2 cups all-purpose flour","1/2 teaspoon salt","3/4 cup warm water","3 tablespoons olive oil"],
             "tags" : ["Mexican 🇲🇽"]
         },
     
         {
             "title" : "Turkey Chili",
-            "url" : "/recipes/turkey_chili/",
+            "url" : "/recipes/recipes/turkey_chili/",
             "ingredients" : ["2 tbls chili powder (ancho or gojucharu)","1/2 tbls paprika","1/2 tbls ground cumin","1 1/4 teaspoons salt","3/4 teaspoon dried chipotle pepper","1/2 teaspoon dried oregano","1/2 teaspoon unsweetened cocoa powder","1/2 teaspoon ground black pepper","pinch of cayenne pepper (optional)","pinch of ground cinnamon","1/2 tbls olive oil","1 onion","1 pound ground turkey","2 cloves minced garlic","1/2 cup tomato puree","1 cup water","1 (12oz) can pinto beans"],
             "tags" : ["Comfort Food 🧸"]
         },
     
         {
             "title" : "Kimchi (김치)",
-            "url" : "/recipes/kimchi/",
+            "url" : "/recipes/recipes/kimchi/",
             "ingredients" : ["3 pounds napa cabbage","1/4 cup sea salt","1 cup water","1 tbs sweet rice flower","1 tbs sugar (turbinado or whatever)","1 cup radish (matchsticked)","1/2 cup carrot (matchsticked)","4 green onions (chopped)","1/2 cup asian chives (or 3 green onion tops, chopped)","(optional) 1/2 water cress (dropwort)","1/4 cup garlic cloves (12) mincd","1 teaspoon ginger (minceced)","1 small onion (minced)","1/4 cup fish sauce","2 tablspoons fermaneted salted shrimp","1 cup gochugaru"],
             "tags" : ["Korean 🇰🇷"]
         },
     
         {
             "title" : "Twisty Cinnamon Bun Bake",
-            "url" : "/recipes/twisty-cinnamon-bun/",
+            "url" : "/recipes/recipes/twisty-cinnamon-bun/",
             "ingredients" : ["1 cup (235 ml) milk, any kind, lightly warmed","2 1/2 teaspoons (1 packet or 7 grams) instant yeast","1/4 cup (50 grams) granulated sugar","2 teaspoons kosher salt (I’m using Diamond; use 1.5t of other brands)","2 large eggs","8 tablespoons (4 ounces or 115 grams) unsalted butter, diced","3 1/2 cups (455 grams) cups all-purpose flour","3 tablespoons (45 grams) butter, salted or unsalted, melted","Pinch or two of salt (if butter is unsalted)","1 cup (190 grams) dark brown sugar","1 tablespoon ground cinnamon","1 8-ounce (225-grams) block cream cheese, at room temperature","2/3 cup (80 grams) powdered sugar","1/2 teaspoon vanilla extract or 1/4 teaspoon vanilla bean paste","1 to 2 (15 to 30 ml) tablespoons milk or cream"],
             "tags" : ["Baking"]
         },
     
         {
             "title" : "Galbi-Jjim (갈비찜)",
-            "url" : "/recipes/galbi-jjim/",
+            "url" : "/recipes/recipes/galbi-jjim/",
             "ingredients" : ["4 dried shiitake mushrooms, washed and soaked in 2 1/2 cups cold water for 3 to 4 hours, until soft",".3 cup soy sauce",".5 cup mirim (aka mirin), or water",".25 cup sugar",".5 teaspoon ground black pepper","8 garlic cloves, minced","1 teaspoon minced peeled ginger","1 medium size Korean radish (8 ounces to 12 ounces) or daikon, peeled","2 large, thick carrots, peeled","2 pounds beef short ribs (8 pieces), rinsed and soaked in cold water for 30 minutes to 1 hour, changing water a couple of times","12 peeled frozen chestnuts or fresh chestnuts (see how to skin fresh chestnuts below; frozen are sold pre-skinned)","2 tablespoons rice syrup","8 large dried jujubes, pitted","12 pine nuts (tips removed)","12 frozen ginkgo nuts, shelled and cooked"],
             "tags" : ["Korean 🇰🇷"]
         },
     
         {
             "title" : "Tteokguk (떡국)",
-            "url" : "/recipes/tteokguk/",
+            "url" : "/recipes/recipes/tteokguk/",
             "ingredients" : ["1 pound sliced tteok rice cakes","7 cups water","½ pound beef (flank steak or brisket), chopped into small pieces","3 to 4 garlic cloves, minced","1 dae-pa large green onion (or 3 green onions), washed and sliced  thinly and diagonally.","2 teaspoons vegetable oil","2 eggs","1 tablespoon fish sauce (or soup soy sauce to your taste)","1 teaspoon toasted sesame oil","½ teaspoon ground black pepper","1 sheet of dried seaweed paper (gim aka nori)","1 red pepper (optional), chopped","salt"],
             "tags" : ["Korean 🇰🇷"]
         },
     
         {
             "title" : "Char Siu",
-            "url" : "/recipes/char-siu/",
+            "url" : "/recipes/recipes/char-siu/",
             "ingredients" : ["2 lb pork shoulder roast","2 Tbsp soy sauce","2 Tbsp hoisin sauce","2 cubes red bean curd + 1 Tbsp liquid","1 Tbsp five spice powder","2 Tbsp honey","2 Tbsp Chinese cooking wine, optional","½ tsp ground white pepper","1 tsp sesame oil, optional","2 cloves garlic, finely grated or mashed","2 Tbsp honey","2-3 tsp red bean curd liquid or cooked leftover marinade"],
             "tags" : ["Chinese 🇨🇳"]
         },
     
         {
             "title" : "Doenjang-jjigae (된장찌개)",
-            "url" : "/recipes/doenjang-jjigae/",
+            "url" : "/recipes/recipes/doenjang-jjigae/",
             "ingredients" : ["1 medium potato, peeled and cut into ½-inch cubes (about 1 cup)","1 medium onion, cut into ½-inch pieces (about 1 cup)","1 small zucchini, cut into ½-inch pieces (about 1 cup)","1 green Korean chili pepper (cheong-gochu), stemmed and chopped","4 garlic cloves, minced","4 large shrimp, shelled, deveined, washed, and coarsely chopped (about ⅓ cup)","2½ cups water","7 dried anchovies, guts removed","5 tablespoons fermented soybean paste (doenjang)","6 ounces medium-firm tofu, cut into ½-inch cubes (about 1 cup)","2 green onions, chopped"],
             "tags" : ["Korean 🇰🇷","Soup 🥣"]
         },
     
         {
             "title" : "Jangjorim (장조림)",
-            "url" : "/recipes/jangjorim/",
+            "url" : "/recipes/recipes/jangjorim/",
             "ingredients" : ["1 pound of beef (flank steak or round part)","3/4 cup Soy Sauce","Water","1 tablespoon Honey","1/2 cup of Garlic","3 Eggs","2 cups Shishito peppers","dried kelp"],
             "tags" : ["Korean 🇰🇷"]
         },
     
         {
             "title" : "Strawberry Ice Cream",
-            "url" : "/recipes/strawberry_ice_cream/",
+            "url" : "/recipes/recipes/strawberry_ice_cream/",
             "ingredients" : ["1½ cups fresh strawberries (or frozen)","2 cups whole milk","2 cups heavy cream","1 cup granulated sugar, divided","pinch of salt","1½ teaspoons pure vanilla extract","5 large egg yolks"],
             "tags" : ["Desserts 🍰"]
         },
     
         {
             "title" : "Nem Nuong",
-            "url" : "/recipes/nem_nuong/",
+            "url" : "/recipes/recipes/nem_nuong/",
             "ingredients" : ["2½ lbs fatty ground pork (partially frozen)","5 oz pork fat trimmings (cut into small cubes; partially frozen)","¼ cup granulated white sugar","¼ cup fish sauce","1 bulb garlic (peel cloves and chop roughly)","1 large shallot (peel and chop roughly)","1 tablespoon roasted rice powder","1 tablespoon corn starch","1 packet Alsa baking powder","¼ cup Tusino nem nuong curing powder","1 cup ice","2 Tbls neutral oil (annatto to get the orange color)","2 garlic cloves","1 small shallot","8oz ground pork","2 cups water","1 tablespoon chicken bouillon powder","½ teaspoon salt","2 tablespoons sweet rice flour"],
             "tags" : ["Vietnamese 🇻🇳","Fish 🐟"]
         },
     
         {
             "title" : "Mac and Cheese",
-            "url" : "/recipes/mac_and_cheese/",
+            "url" : "/recipes/recipes/mac_and_cheese/",
             "ingredients" : ["4 cups dried macaroni","1 egg","1/4 cup butter","1/4 cup flour","2 1/2 c milk","2 tsp dry mustard","1 lb cheese","1/2 tsp salt (more to taste)","1/2 tsp seasoned salt","1/2 tsp black pepper","cayenne, paprika, nutmeg, thyme","1/4 cup bread crumbs"],
             "tags" : ["American 🇺🇸","Comfort Food 🧸"]
         },
     
         {
             "title" : "Coconut lentil soup",
-            "url" : "/recipes/coconut-lentil-soup/",
+            "url" : "/recipes/recipes/coconut-lentil-soup/",
             "ingredients" : ["1 large onion","6 garlic cloves","3 tablespoons of grated ginger","2 tablespoons virgin coconut oil","5 teaspoons curry powder","0.5 teaspoon cayenne pepper","400g can unsweetened coconut milk","150g split red lentils","8 tablespoons unsweetened shredded coconut","2 teaspoons kosher salt","300g spinach","1 can crushed tomatoes","plain whole-milk or non-dairy yogurt (for serving; optional)"],
             "tags" : ["Soup 🥣","Vegetarian 🌿","Vegan 🌱"]
         },
     
         {
             "title" : "Courgette &amp; lemon risotto",
-            "url" : "/recipes/courgette-lemon-risotto/",
+            "url" : "/recipes/recipes/courgette-lemon-risotto/",
             "ingredients" : ["50g butter","1 onion, finely chopped","1 large garlic clove crushed","180g risotto rice","1 vegetable stock cube","zest and juice 1 lemon","2 lemon thyme sprigs","250g courgette diced","50g parmesan (or vegetarian alternative) grated","2 tbsp crème fraîche"],
             "tags" : ["Italian 🇮🇹","Vegetarian 🌿"]
         },
     
         {
             "title" : "Simple brownies",
-            "url" : "/recipes/simple-brownies/",
+            "url" : "/recipes/recipes/simple-brownies/",
             "ingredients" : ["225g butter (preferably unsalted)","450g caster sugar","140g dark chocolate broken into pieces","5 free-range medium eggs","110g plain flour","55g cocoa powder"],
             "tags" : ["Sweet 🍬","Cake 🍰","Vegetarian 🌿","Sharable"]
         },
     
         {
             "title" : "Aglio e Olio",
-            "url" : "/recipes/aglio-e-olio/",
+            "url" : "/recipes/recipes/aglio-e-olio/",
             "ingredients" : ["Salt","1 pound spaghetti","1/3 cup of olive oil","8 large cloves of garlic (thinly sliced&amp;mdash;the thinner the better)","1/2 teaspoon crushed red pepper flakes","1 cup freshly grated parmesan reggiano"],
             "tags" : ["Pasta 🍝","Italian 🇮🇹"]
         },
     
         {
             "title" : "Barbacoa",
-            "url" : "/recipes/barbacoa/",
+            "url" : "/recipes/recipes/barbacoa/",
             "ingredients" : ["1.5 lbs. beef chuck roast (fat trimmed) cut into 2-inch pieces","2 cloves garlic, minced","1 chipotle chile, chopped","1 4oz can diced green chiles","2 tablespoons fresh lime juice","1 small white onion","2 bay leaves","1 tablespoon apple cider vinegar","1/2 tablespoon ground cumin","1/2 tablespoon oregano","1 teaspoon sea salt","1/2 teaspoon ground black pepper","Pinch of ground cloves","1/4 cup beef stock (or water)"],
             "tags" : ["Mexican 🇲🇽"]
         },
     
         {
             "title" : "Bimbimbap Sauces (비빔밥)",
-            "url" : "/recipes/bibimbap_sauces/",
+            "url" : "/recipes/recipes/bibimbap_sauces/",
             "ingredients" : ["1/2 cup gochujan","1/4 cup toasted sesame oil","1/4 cup sugar","1/4 cup water","1/4 cup toasted sesame seeds","4 tsp vinegar (rice or apple cider)","4 tsp minced garlic"],
             "tags" : ["Korean 🇰🇷"]
         },
     
         {
             "title" : "Blondies",
-            "url" : "/recipes/blondies/",
+            "url" : "/recipes/recipes/blondies/",
             "ingredients" : ["8 tablespoons (1 stick, 4 ounces or 115 grams) unsalted butter","1 cup (190 grams) light or dark brown sugar","1 large egg","1 teaspoon vanilla extract","1/2 teaspoon flaky sea salt, or 1/4 teaspoon coarse sea salt","1 cup (130 grams) all-purpose flour","[object Object]"],
             "tags" : ["Sweet 🍬","Favorite ⭐"]
         },
     
         {
             "title" : "Blueberry-Chia Seed Jam",
-            "url" : "/recipes/blueberry_chia_seed_jam/",
+            "url" : "/recipes/recipes/blueberry_chia_seed_jam/",
             "ingredients" : ["3 cups fresh (or frozen, thawed) blueberries","2 teaspoons finely grated lemon zest","¼ cup fresh lemon juice","3 tablespoons (or more) pure maple syrup","¼ cup chia seeds"],
             "tags" : ["American 🇺🇸","Canned 🫙"]
         },
     
         {
             "title" : "Broccoli, Cheddar and Wild Rice Casserole",
-            "url" : "/recipes/broccoli_cheddar_rice/",
+            "url" : "/recipes/recipes/broccoli_cheddar_rice/",
             "ingredients" : ["3 tablespoons butter, divided","1/2 large onion, diced","Salt","2/3 cup uncooked wild rice blend, rinsed","1 pound broccoli","1 garlic clove, minced or pressed","1/4 teaspoon ground mustard powder or 1/2 teaspoon smooth Dijon","Pinch of cayenne pepper","2 tablespoons all-purpose flour","1 cup whole milk","2/3 cup low-sodium vegetable or chicken broth","8 ounces cheddar cheese, coarsely grated","Freshly ground black pepper"],
             "tags" : ["Vegetarian 🌿"]
         }

@@ -6,11 +6,11 @@
         },
         {
             "text": "All recipes",
-            "url": "/recipes/"
+            "url": "/recipes/recipes/"
         },
         {
             "text": "About",
-            "url": "/about/"
+            "url": "/recipes/about/"
         }
     ]
 }
