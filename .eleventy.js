@@ -85,7 +85,7 @@ module.exports = (config) => {
                 widths: [600, 1500, 3000],
                 formats: ["webp", "jpeg"],
                 outputDir: "./docs/img/recipes",
-                urlPath: "/recipes/img/recipes/",
+                urlPath: "/recipes/recipes/img/recipes/",
             }
         );
 
