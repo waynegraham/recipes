@@ -3,7 +3,7 @@ title: Cheese Grits
 image:  https://source.unsplash.com/yItVmeh1XA8
 tags:
   - American 🇺🇸
-  - Comfort Food 🧸 Food 🧸
+  - Comfort Food 🧸 
 servings: 2
 prep: 5M
 cook: 30M

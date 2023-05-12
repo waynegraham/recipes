@@ -1,6 +1,6 @@
 ---
 layout: layouts/home.njk
-title: This cookbook belongs to
+title: My Collected Recipes
 authorInTitle: true
 metaTitle: Home
 highlightedTag: Favorite ⭐
