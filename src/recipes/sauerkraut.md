@@ -2,7 +2,7 @@
 title: Sauerkraut
 tags:
   - German 🇩🇪
-image: https://source.unsplash.com/qae8qOmD-sM
+image: /img/recipes/sauerkraut.jpg 
 sourceURL:
 servings:
 prep: 10M
