@@ -2,7 +2,7 @@
     "items": [
         {
             "text": "Home",
-            "url": "/"
+            "url": "/recipes"
         },
         {
             "text": "All recipes",

@@ -2,7 +2,7 @@
     <ul class="c-nav__list">
         {% for navItem in nav.items %}
             <li>
-                {% if navItem.url == "{{ '/' | url }}" %}
+                {% if navItem.url == "/recipes" %}
                     <a href="/" class="c-nav__home">
                         <span class="c-nav__logo">{% include "icons/logo.svg" %}</span>
                         <span class="c-nav__nav-item c-nav__home-text {{ 'c-nav__nav-item--active' if page.url == '/' }}">{{ navItem.text }}</span>
