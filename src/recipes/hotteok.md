@@ -9,6 +9,7 @@ cook: 10M
 time: 100M
 tags:
   - Korean 🇰🇷
+  - Sweet 🍬
 ingredients:
   - 1 cup lukewarm water
   - 2 tbs sugar
