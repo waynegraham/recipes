@@ -4,12 +4,13 @@
   "description": "Recipe collection collected from around the Internet",
   "main": "index.js",
   "scripts": {
+    "clean": "npx rimraf 'docs'",
     "dev:css": "sass src/scss/main.scss:src/_includes/css/main.css --watch --style=compressed",
     "dev:11ty": "eleventy --serve",
     "dev": "npm-run-all --parallel dev:css dev:11ty",
     "prod:css": "sass src/scss/main.scss:src/_includes/css/main.css --style=compressed",
     "prod:11ty": "eleventy",
-    "build": "env NODE_ENV=production npm-run-all prod:css prod:11ty"
+    "build": "env NODE_ENV=production npm-run-all clean prod:css prod:11ty"
   },
   "author": "Wayne Graham",
   "license": "MIT",
