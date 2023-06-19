@@ -496,6 +496,13 @@
             "url" : "/recipes/recipes/blueberry-biscuits/",
             "ingredients" : ["250 grams  all purpose flour","4 teaspoons baking powder",".25 teaspoon baking soda",".75 teaspoon salt","2 teapsoons sugar","2 tablespoons unsalted butter","2 tablespoons shortening","1 cup buttermilk","1 cup blueberries","8 oz cream cheese","1 stick of unsalted butter (softened)","1 teaspoon vanilla extract",".25 teaspoon salt","250 grams cups powdered sugar"],
             "tags" : ["American 🇺🇸","Sweet 🍬"]
+        },
+    
+        {
+            "title" : "Peanut Butter Cookies",
+            "url" : "/recipes/recipes/peanut-butter-cookies/",
+            "ingredients" : ["1/2 cup softened butter","1/2 cup (130g) peanut butter","1/4 cup (50g) brown sugar","1/2 cup (100g) granulated sugar","1 egg","2 teaspoon vanilla extract","3/4 teaspoon baking soda","1/2 teaspoon salt","150 grams AP flour (see notes)"],
+            "tags" : ["American 🇺🇸","Sweet 🍬"]
         }
     
 ]
