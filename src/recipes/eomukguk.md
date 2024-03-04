@@ -3,7 +3,7 @@ title: Eomukguk (어묵국)
 tags:
   - Korean 🇰🇷
   - Soup 🥣
-image: http://crazykoreancooking.com/sites/default/files/styles/feature_image_752_x_500/public/Fishcake%20Soup.jpg?itok=nlDiwGRq
+image: /img/recipes/Fishcake-Soup.jpg
 video: https://www.youtube.com/embed/0zeboswxMeQ?rel=0
 servings: 4
 prep: 20M

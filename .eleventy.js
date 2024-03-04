@@ -78,6 +78,28 @@ module.exports = (config) => {
     });
 
     /* Shortcodes */
+    // config.addShortcode("recipeimage", async function(src, className, alt, sizes) {
+	// 	let metadata = await Image(
+    //         src.includes("http") ? src : `./src/${src}`, 
+    //         {
+    //             widths: [600, 1500, 3000],
+    //             formats: ["webp", "jpeg"],
+    //             outputDir: "./docs/img/recipes",
+    //             urlPath: "/recipes/img/recipes/",
+	// 	    }
+    //     );
+
+	// 	let imageAttributes = {
+    //         classname: className,
+	// 		alt,
+	// 		sizes,
+	// 		loading: "lazy",
+	// 		decoding: "async",
+	// 	};
+
+	// 	// You bet we throw an error on a missing alt (alt="" works okay)
+	// 	return Image.generateHTML(metadata, imageAttributes);
+	// });
     const imageShortcode = async (src, className, alt, sizes) => {
         let metadata = await Image(
             src.includes("http") ? src : `./src/${src}`,

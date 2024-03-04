@@ -1,6 +1,6 @@
 ---
 title: Caramelized Black Pepper Chicken
-image: /img/recipes/caramelized-black-pepper-chicken-XL-RECIPE0918-b18a6980bc0a4146b334b21081a1c70a.webp 
+image: /img/recipes/caramelized-black-pepper-chicken.png
 sourceLabel: Food and Wine
 sourceURL: https://www.foodandwine.com/recipes/caramelized-black-pepper-chicken
 tags:
