@@ -1,7 +1,7 @@
 ---
 title: Pavolova
-sourceURL: /img/recipes/toa-heftiba-AMGMIHBIT5g-unsplash.jpg
-image: https://source.unsplash.com/AMGMIHBIT5g
+sourceURL: https://sallysbakingaddiction.com/pavlova/
+image: /img/recipes/toa-heftiba-AMGMIHBIT5g-unsplash.jpg
 prep: 20M
 cook: 90M
 servings: 8-10
@@ -33,7 +33,7 @@ Using a rubber spatula, fold in the cream of tartar.
 
 Spread the pavlova mixture into an 8-9-inch circle. You can make decorative peaks with the back of a large spoon if desired. Make sure the edges are relatively tall and there is a nice dip in the center.
 
-Place pavlova in the oven. As soon as you close the oven door, reduce heat to 200°F. 
+Place pavlova in the oven. As soon as you close the oven door, reduce heat to 200°F.
 
 Bake until the pavlova is firm and dry, about 90 minutes total. Rotate the baking sheet if you notice some spots browning. Try to limit how many times you open the oven as the cool air will interrupt the baking.
 

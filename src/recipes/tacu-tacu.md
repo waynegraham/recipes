@@ -1,6 +1,6 @@
 ---
 title: Tacu Tacu
-image: /img/recipes/tacu-tacu-peruvian-beans-and-rice.jpg
+image: /img/recipes/tacu-tacu-peruvian-beans-and-rice-1196x560.webp
 sourceURL: https://www.goya.com/en/recipes/tacu-tacu
 servings: 4
 prep: 5M
@@ -30,4 +30,4 @@ ingredients:
  11. Cover and cook on low until heated through and lightly browned on bottom, about 10 minutes more.
  12. To serve, invert a plate over skillet and flip so rice is on plate with browned side up.
 
-    <a href="{{ '/recipes/peruvian-salsa/' | prepend: site.baseurl }}">Serve with Peruvian Salsa</a>
+[Serve with Peruvian Salsa]({{ '/recipes/peruvian-salsa/' | prepend: site.baseurl }})

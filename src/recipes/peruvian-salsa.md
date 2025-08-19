@@ -1,7 +1,7 @@
 ---
 title: Salsa Criolla
 
-image: /img/recipes/salsacriolla-56fde5eb3df78c7d9e177e37.jpg
+image: /img/recipes/Salsa-Criolla.jpg
 sourceURL: https://www.thespruce.com/salsa-criolla-onion-pepper-lime-salsa-3029642
 servings: 6
 prep: 10M
