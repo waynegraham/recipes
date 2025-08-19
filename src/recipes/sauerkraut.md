@@ -27,4 +27,4 @@ Let rest for 30 minutes
 
 Pack cabbage in to fermentation container
 
-Check after a week, will probably need 2 weeks to get to the right fermentation stage
+Check after a week, will probably need 2 weeks to get to the right fermentation stage.

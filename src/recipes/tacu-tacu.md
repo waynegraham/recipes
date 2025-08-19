@@ -1,6 +1,6 @@
 ---
 title: Tacu Tacu
-image: https://www.goya.com/media/4475/tacu-tacu-peruvian-beans-and-rice.jpg?quality=80
+image: /img/recipes/tacu-tacu-peruvian-beans-and-rice.jpg
 sourceURL: https://www.goya.com/en/recipes/tacu-tacu
 servings: 4
 prep: 5M

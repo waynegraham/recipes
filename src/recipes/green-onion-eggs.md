@@ -1,6 +1,6 @@
 ---
 title: Green Onion Eggs
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Fried_eggs.jpg/800px-Fried_eggs.jpg
+image: /img/recipes/800px-Fried_eggs.jpg
 sourceLabel: futuredish
 sourceURL: https://futuredish.com/breakfast-banchan/
 video: https://www.youtube.com/embed/H_-0Z2S1XwQ?start=261

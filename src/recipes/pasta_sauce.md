@@ -1,7 +1,7 @@
 ---
 title: Pasta Sauce
 sourceLabel: Jeremy Boggs
-image: /img/recipes/pasta-sauce.jpg 
+image: /img/recipes/pasta-sauce.jpg
 prep: 30M
 cook: 3H
 time: 210M
@@ -32,7 +32,7 @@ ingredients:
   -   Large handful of grated Locatelli
 ---
 
-# Pasta Sauce
+## Pasta Sauce
 
 This makes a lot; recommend making 1/2 a batch unless you're feeding *a lot* of people.
 

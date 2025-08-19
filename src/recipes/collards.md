@@ -1,6 +1,6 @@
 ---
 title: Collards
-image: https://source.unsplash.com/yItVmeh1XA8
+image: /img/recipes/kim-daniels-yItVmeh1XA8-unsplash.jpg
 servings: 4
 prep: 5M
 cook: 3H

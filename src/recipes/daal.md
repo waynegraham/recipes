@@ -27,8 +27,9 @@ ingredienta:
   - 4-5 cups water
   - salt & pepper to taste
 ---
-    1. In a large pot over low-medium heat, add the ghee to melt. Add the onion and cook, stirring until very soft and translucent and slightly yellow, about 6-8 minutes.
-    2. Add the garlic, ginger and fresh chilli if using (if using dried red chilli flakes, add them later with the spices) and cook for 1 minute, until just fragrant.
-    3. Add the spices; curry, coriander, turmeric, cumin, cinnamon and dried red chilli flakes (if using). Stir for about 30 seconds.
-    4. Add the tomato and the lentils, stir for a couple of minutes until nicely coated with everything.
-    5. Add 4 cups water, bring to a boil and lower the heat to a simmer. Cook, partially covered for about 20-30 minutes until lentils are very soft and the stew is thick, stirring occasionally to prevent sticking and adding a little extra water if needed. Season to taste. Serve with Naan and mango chutney.
+
+1. In a large pot over low-medium heat, add the ghee to melt. Add the onion and cook, stirring until very soft and translucent and slightly yellow, about 6-8 minutes.
+2. Add the garlic, ginger and fresh chilli if using (if using dried red chilli flakes, add them later with the spices) and cook for 1 minute, until just fragrant.
+3. Add the spices; curry, coriander, turmeric, cumin, cinnamon and dried red chilli flakes (if using). Stir for about 30 seconds.
+4. Add the tomato and the lentils, stir for a couple of minutes until nicely coated with everything.
+5. Add 4 cups water, bring to a boil and lower the heat to a simmer. Cook, partially covered for about 20-30 minutes until lentils are very soft and the stew is thick, stirring occasionally to prevent sticking and adding a little extra water if needed. Season to taste. Serve with Naan and mango chutney.

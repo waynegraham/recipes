@@ -1,6 +1,6 @@
 ---
 title: Barbacoa
-image: https://source.unsplash.com/Ov042H10g_o
+image: /img/recipes/kristian-ryan-alimon-3YvFXvDrFyM-unsplash.jpg
 sourceLabel: Gimme Some Oven
 sourceURL: https://www.gimmesomeoven.com/barbacoa-recipe/
 servings: 2
@@ -15,7 +15,7 @@ ingredients:
   - 2 bay leaves
   - 1 tablespoon apple cider vinegar
   - 1/2 tablespoon ground cumin
-  - 1/2 tablespoon oregano 
+  - 1/2 tablespoon oregano
   - 1 teaspoon sea salt
   - 1/2 teaspoon ground black pepper
   - Pinch of ground cloves
@@ -27,4 +27,4 @@ tags:
 1. Combine all ingredients into slow cooker. Toss gently to combine.
     1. Cover and cook on low for 6 - 8 hours until beef is tender and falls apart easily when shredded with a fork.
     2. Shred beef into bite-sized pieces and let the babacoa soak up the juices in the slow cooker for at least 10 minutes.
-    3. Remove bay leaves and serve. 
+    3. Remove bay leaves and serve.

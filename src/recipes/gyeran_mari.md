@@ -2,7 +2,7 @@
 title: Korean Egg Roll (Gyeran Mari - 계란말이)
 tags:
   - Korean 🇰🇷
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Korean_Style_Omelette.jpg/2560px-Korean_Style_Omelette.jpg
+image: /img/recipes/2560px-Korean_Style_Omelette.jpg
 sourceURL: https://mykoreankitchen.com/korean-egg-roll-gyeran-mari/
 servings: 2
 prep: 5M

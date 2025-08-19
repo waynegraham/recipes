@@ -2,7 +2,7 @@
 title: Char Siu
 tags:
   - Chinese 🇨🇳
-image: https://source.unsplash.com/fLGAFGpqzKk
+image: /img/recipes/XjmbUiz78K-1080.webp
 sourceLabel: Hot Thai Kitchen
 sourceURL: https://hot-thai-kitchen.com/char-siu/
 servings: 2

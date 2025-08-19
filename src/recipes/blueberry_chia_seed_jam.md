@@ -1,6 +1,6 @@
 ---
 title: Blueberry-Chia Seed Jam
-image: https://source.unsplash.com/SWyfzICySco/
+image: /img/recipes/micheile-henderson-SWyfzICySco-unsplash.jpg
 sourceLabel: Bon Appétit
 sourceURL:  https://www.bonappetit.com/recipe/blueberry-chia-seed-jam
 servings: 12

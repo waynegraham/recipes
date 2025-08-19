@@ -1,6 +1,6 @@
 ---
 title: Cá Kho Tộ (Braised Fish)
-image: https://source.unsplash.com/H_urbiR2roM
+image: /img/recipes/photo-1628404452899-04f27b032fc6.avif
 sourceLabel: Hungry Huy
 sourceURL: https://www.hungryhuy.com/ca-kho-to-recipe-vietnamese-braised-fish/
 tags:
@@ -15,10 +15,10 @@ ingredients:
   - salt to clean the fish
   - 2 tbls oil
   - 5 cloves of minced garlic
-  - 1 large shallot sliced (or 1/2 yellow onion) 
+  - 1 large shallot sliced (or 1/2 yellow onion)
   - 2 tbls oil
   - 5 cloves of minced garlic
-  - 1 large shallot sliced (or 1/2 yellow onion) 
+  - 1 large shallot sliced (or 1/2 yellow onion)
   - 1 tsp salt
   - 1 tbls fish sauce (adjust to taste, but use [Red Boat](https://redboatfishsauce.com/)! )
   - Splash of dark soy sauce

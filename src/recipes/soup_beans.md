@@ -3,7 +3,7 @@ title: Soup Beans
 tags:
   - American 🇺🇸
   - Comfort Food 🧸
-image: https://source.unsplash.com/LBS8NZy6AOM
+image: /img/recipes/israel-palacio-LBS8NZy6AOM-unsplash.jpg
 sourceURL: https://www.southernliving.com/bread/appalanchian-cornbread-recipes
 servings: 6
 prep: 5M
@@ -22,6 +22,7 @@ ingredients:
 ---
 
 Pick through the beans to discard any chaff, funky ones, or pebbles, and then rinse them. Place in a large bowl and add enough water to cover to a depth of 3 inches. Let stand overnight, and then drain.
+
  1. Heat the ham fat in a large saucepan over medium heat. Stir in the streaked meat and cook, stirring occasionally, until it renders, browns, and begins to crisp, about 10 minutes. Transfer with a slotted spoon to drain on paper towels.
  2. Add the onion to the pot and stir to coat in the fat. Cook, stirring occasionally, until tender, about 5 minutes.
  3. Stir in the beans, and pour in water to cover by a depth of 1 inch. Stir in the bay leaves, pepper, turmeric, salt, and hot sauce. Bring to a boil, reduce the heat, partially cover the pot, and cook the beans at a gentle simmer until tender and creamy, about 1 hour. Begin checking for doneness every 5 minutes after they have cooked for 45 minutes.

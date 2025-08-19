@@ -3,7 +3,7 @@ title: Cornbread
 tags:
   - American 🇺🇸
   - Comfort Food 🧸
-image: https://source.unsplash.com/5lKSHTKnarQ
+image: /img/recipes/bruno-oliveira-5lKSHTKnarQ-unsplash.jpg
 sourceURL:
 servings: 2
 prep: 5M
@@ -27,7 +27,7 @@ Combine corn meal, flour, sugar, baking powder and salt in a bowl.
 Mix oil, egg, and milk together and add to dry ingredients, mixing until batter is uniform.
 
 Grease a cast iron skillet
-  
+
 Bake for 20-25 minutes
 
 For sweeter, moister corn bread, use:

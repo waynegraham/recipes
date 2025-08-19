@@ -1,6 +1,6 @@
 ---
 title: Lowcountry Hoppin' John and Sausage
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hoppin-john-bowl.JPG/1200px-Hoppin-john-bowl.JPG
+image: /img/recipes/1200px-Hoppin-john-bowl.JPG
 sourceURL: Scott Pennington
 servings: 4
 prep: 5M
@@ -22,7 +22,7 @@ ingredients:
   - hotsauce to taste
 ---
 
-**ONLY USE Bush's blackeye peas**
+> **ONLY USE Bush's blackeye peas**
 
 Brown sausage in frying pan with onions and half of the rosemary, crumble meat & drain fat. - Add pepper, garlic, and all seasonings
 

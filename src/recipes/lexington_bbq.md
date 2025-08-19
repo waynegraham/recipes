@@ -1,6 +1,6 @@
 ---
 title: Lexington BBQ Dip Saunce
-image: https://source.unsplash.com/yzBnzI2kOmg
+image: /img/recipes/amie-johnson-yzBnzI2kOmg-unsplash.jpg
 sourceLabel: Amazing Ribs
 sourceURL: https://amazingribs.com/tested-recipes/barbecue-sauce-recipes/lexington-dip-bbq-sauce/
 servings: 4

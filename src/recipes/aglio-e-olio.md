@@ -1,12 +1,12 @@
 ---
 title: Aglio e Olio
-image: https://source.unsplash.com/KSXvrqKUxnc
+image: /img/recipes/diviya-khanna-FEXXkt2eINI-unsplash.jpg
 tags:
     - Pasta 🍝
     - Italian 🇮🇹
 servings: 4
 time: 15M
-ingredients: 
+ingredients:
   - Salt
   - 1 pound spaghetti
   - 1/3 cup of olive oil
@@ -14,7 +14,8 @@ ingredients:
   - 1/2 teaspoon crushed red pepper flakes
   - 1 cup freshly grated parmesan reggiano
 ---
-**Sauce**
+## Sauce
+
   1. Add oil and garlic to a **cold** skillet
   2. Turn heat to medium
   3. Cook garlic, stirring frequently, until it starts to turn golden brown on the edges

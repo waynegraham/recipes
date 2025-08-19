@@ -6,7 +6,7 @@ servings: 2
 prep: 5M
 cook: 30M
 time: 35M
-image: https://source.unsplash.com/r8lDTtSWGUc
+image: /img/recipes/clem-onojeghuo-r8lDTtSWGUc-unsplash.jpg
 sourceURL: https://hot-thai-kitchen.com/gai-kem-v2/
 video: https://www.youtube.com/embed/t4fpAb3Cb7c
 ingredients:
@@ -33,7 +33,7 @@ ingredients:
 ---
 
 ## Poached Chicken
-    
+
 Add chicken, ginger, garlic, and lemongrass top (if using) to a pot and add just enough cold water to cover the chicken. Add salt and stir the water around a bit to mix the salt (so it’s not just sitting as a pile on top of a piece of chicken!).
 
 Turn on the heat to medium high and bring the water to a VERY gentle simmer—water should be steaming lots but it should be very still, with few, gentle bubbles—175°F-185°F (80°C-85°C). Do not let the water boil.

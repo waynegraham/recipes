@@ -1,9 +1,9 @@
 ---
 title: Cheese Grits
-image:  https://source.unsplash.com/yItVmeh1XA8
+image: /img/recipes/kim-daniels-yItVmeh1XA8-unsplash.jpg
 tags:
   - American 🇺🇸
-  - Comfort Food 🧸 
+  - Comfort Food 🧸
 servings: 2
 prep: 5M
 cook: 30M
@@ -32,4 +32,3 @@ Cover and reduce to medium-low heat and simmer
 Stir every so often until done (like 5 minutes)
 
 Add the rest
-

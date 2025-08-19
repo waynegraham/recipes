@@ -1,6 +1,6 @@
 ---
 title: Irish Cheddar Spring Onion Biscuits
-image: https://source.unsplash.com/PAa_MJztyUY
+image: /img/recipes/jodie-morgan-PAa_MJztyUY-unsplash.jpg
 sourceLabel: Food Wishes
 sourceURL: http://foodwishes.blogspot.com/2017/03/irish-cheddar-spring-onion-biscuits.html
 video: https://www.youtube.com/embed/du90n1B-U6M?rel=0

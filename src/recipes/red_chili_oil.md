@@ -1,6 +1,6 @@
 ---
 title: Red Chili Oil
-image: https://source.unsplash.com/KSXvrqKUxnc
+image: /img/recipes/carissa-gan-KSXvrqKUxnc-unsplash.jpg
 tags:
   - Chinese 🇨🇳
 servings: 4

@@ -1,6 +1,6 @@
 ---
 title: Pizza
-image:  https://source.unsplash.com/MNtag_eXMKw
+image:  /img/recipes/thomas-tucker-MNtag_eXMKw-unsplash.jpg
 sourceURL: https://www.bonappetit.com/recipe/pizza-dough-2
 video:
 servings: 2
@@ -34,11 +34,11 @@ ingredients:
 8. Punch down
 9. Make in to pizza round
 
-**Sauce**
+### Sauce
 
 Mix everything in a bowl and let site for at least 15 minutes. Adjust to taste.
 
-**Pizza**
+### Pizza
 
 1. Place rack on the highest level (if it's too close, put it down one)
 1. Preheat oven as high as it will go, with large cast iron pan in it

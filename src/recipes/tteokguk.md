@@ -1,6 +1,6 @@
 ---
 title: Tteokguk (떡국)
-image: /img/recipes/tteokguk_bowl.jpg 
+image: /img/recipes/tteokguk_bowl.jpg
 video: https://www.youtube.com/embed/plvT0vWBK14
 sourceURL: https://www.maangchi.com/recipe/tteokguk
 servings: 2
@@ -23,7 +23,7 @@ ingredients:
   - 1 red pepper (optional), chopped
   - salt
 ---
-1. Measure out tteok and soak for 30 minutes 
+1. Measure out tteok and soak for 30 minutes
 2. Bring the water to a boil in a heavy pot over high heat and add the beef and garlic and cook for 5 minutes.
 3. Turn the heat down to medium, cover, and cook for 20 to 25 minutes until the  beef  is  tender and  has  infused  the water  with  flavor.
 4. Roast both sides of a sheet of gim until it’s bright green and very crispy. Put it in a plastic bag and crush it by hand. Set aside.

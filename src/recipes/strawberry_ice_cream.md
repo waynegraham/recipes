@@ -2,11 +2,11 @@
 title: Strawberry Ice Cream
 tags:
   - Desserts 🍰
-image: https://source.unsplash.com/kg7gcQtp4N8
+image: /img/recipes/svitlana-kg7gcQtp4N8-unsplash.jpg
 sourceURL:
 servings: 2
 prep: 10M
-cook: 
+cook:
 video:
 ingredients:
   - 1½ cups fresh strawberries (or frozen)
@@ -19,9 +19,9 @@ ingredients:
 ---
 
  1. Chop stawberries to a fine consistency and place in a bowl
- 2. In a medium saucepan set to medium-low heat, whisk together milk, cream, ½ cup of sugar, and salt and bring to just a boil. 
+ 2. In a medium saucepan set to medium-low heat, whisk together milk, cream, ½ cup of sugar, and salt and bring to just a boil.
  3. While dairy is heating, combine yolks and ½ cup sugar and whisk together
- 4. When dairy comes to heat, temper the eggs in two additions. 
+ 4. When dairy comes to heat, temper the eggs in two additions.
  5. Return tempered eggs and allow to mixture (DO NOT ALLOW TO BOIL)
  6. Pour mixture through a fine mesh strainer and bring to room temperature.
  7. Stir in strawberries and vanilla.

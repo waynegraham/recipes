@@ -1,6 +1,6 @@
 ---
 title: Pavolova
-sourceURL: https://sallysbakingaddiction.com/pavlova/
+sourceURL: /img/recipes/toa-heftiba-AMGMIHBIT5g-unsplash.jpg
 image: https://source.unsplash.com/AMGMIHBIT5g
 prep: 20M
 cook: 90M

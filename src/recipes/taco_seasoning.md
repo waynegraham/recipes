@@ -1,7 +1,7 @@
 ---
 title: Taco Seasoning
 sourceURL: http://allrecipes.com/recipe/46653/taco-seasoning-i/
-image: https://source.unsplash.com/qsPHXC4T2cY
+image: /img/recipes/andra-ion-qsPHXC4T2cY-unsplash.jpg
 prep: 5M
 cook: 10M
 servings: 4

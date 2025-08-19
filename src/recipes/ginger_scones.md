@@ -3,7 +3,7 @@ title: Ginger Scones
 tags:
   - Sweet 🍬
   - Sharable
-image: https://source.unsplash.com/ZylDTFMHHqQ
+image: /img/recipes/florencia-viadana-ZylDTFMHHqQ-unsplash.jpg
 sourceLabel: Simply Recipes
 sourceURL: https://www.simplyrecipes.com/recipes/ginger_scones/
 servings: 6

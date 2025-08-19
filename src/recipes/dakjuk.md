@@ -3,7 +3,7 @@ title: Dakjuk (닭죽)
 tags:
   - Korean 🇰🇷
   - Chicken 🍗
-image: https://www.koreanbapsang.com/wp-content/uploads/2010/03/DSC_0076-e1544936145139.jpg
+image: /img/recipes/DSC_0076-e1544936145139.jpg
 sourceLabel: Korean Bapsang
 sourceURL: https://www.koreanbapsang.com/dakjuk-korean-chicken-porridge/
 servings: 2

@@ -4,7 +4,7 @@ tags:
   - Bread 🍞
   - German 🇩🇪
 sourceLabel: Sally's Baking Addiction
-image: https://sallysbakingaddiction.com/wp-content/uploads/2017/04/easy-homemade-soft-pretzels.jpg
+image: /img/recipes/easy-homemade-soft-pretzels.jpg
 sourceURL: https://sallysbakingaddiction.com/easy-homemade-soft-pretzels/
 video:
 servings: 12

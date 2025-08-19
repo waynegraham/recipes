@@ -1,6 +1,6 @@
 ---
 title: Chile Lemongrass Sate
-image: https://source.unsplash.com/8502DXwY-7U
+image: /img/recipes/percy-pham-8502DXwY-7U-unsplash.jpg
 sourceLabel: Bunbo Bae
 sourceURL: https://bunbobae.com/vietnamese-chile-lemongrass-sate-sauce-tuong-ot-sa-te/
 servings: 4
@@ -8,7 +8,7 @@ prep: 40M
 time: 40M
 tags:
   - Vietnamese 🇻🇳
-ingredients:    
+ingredients:
   - 1 cup neutral oil
   - 1 head of garlic, minced
   - 1/2 cup lemongrass, finely chopped

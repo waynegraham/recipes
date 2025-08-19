@@ -1,6 +1,6 @@
 ---
 title: Hotteok (호떡)
-image: https://upload.wikimedia.org/wikipedia/commons/9/97/Hotteok.jpg
+image: /img/recipes/Hotteok.jpg
 sourceLabel: Maanchi
 sourceURL: https://www.maangchi.com/recipe/hotteok
 servings: 8

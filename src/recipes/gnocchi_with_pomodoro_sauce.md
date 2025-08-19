@@ -3,7 +3,7 @@ title: Gnocchi with Pomodoro Sauce
 tags:
     - Pasta 🍝
     - Italian 🇮🇹
-image: https://source.unsplash.com/eNQo4Bo9qtQ
+image: /img/recipes/gabor-molnar-5300Q8dOY18-unsplash.jpg
 sourceLabel: Foodie Crush
 sourceURL: https://www.foodiecrush.com/gnocchi-with-pomodoro-sauce/
 servings: 4
@@ -26,6 +26,7 @@ ingredients:
   - 8 ounces cherry size mozzarella balls cut in half
   - 1/2 cup freshly grated Parmesan cheese
 ---
+
 Add 1/4 cup olive oil to a 10-inch high sided sauté pan or a saucepan over medium heat. Add the parsley, oregano, rosemary and 2 stems of basil and cook for about 5 minutes or until the herbs become crisp.
 
 Remove the herbs and discard then add the onion and garlic to the oil, lowering the heat if needed so the onions cook gently and don't brown. Cook until the onions are transparent, about 5-7 minutes, then crush the tomatoes with your hand and add to the pan with juice.

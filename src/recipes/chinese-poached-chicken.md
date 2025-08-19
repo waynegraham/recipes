@@ -2,8 +2,8 @@
 title: Chinese Poached Chicken
 tags:
   - Chinese 🇨🇳
-image: https://source.unsplash.com/U6-KvV7HlMk
-sourceLabel: Donna hay 
+image: /img/recipes/louis-hansel-U6-KvV7HlMk-unsplash.jpg
+sourceLabel: Donna Hay
 sourceURL: https://www.donnahay.com.au/recipes/dinner/chinese-poached-chicken
 servings: 6
 time: 20M

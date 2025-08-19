@@ -1,6 +1,6 @@
 ---
 title: Mapo Tofu (Korean Style)
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Billyfoodmabodofu3.jpg/1280px-Billyfoodmabodofu3.jpg
+image: /img/recipes/1280px-Billyfoodmabodofu3.jpg
 sourceURL: https://www.koreanbapsang.com/mapo-tofu-korean-style/
 servings: 2
 prep: 10M

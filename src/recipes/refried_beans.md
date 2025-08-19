@@ -1,6 +1,6 @@
 ---
 title: Refried Beans
-image: https://upload.wikimedia.org/wikipedia/commons/3/37/Refried_beans.jpg
+image: /img/recipes/Refried_beans.jpg
 prep: 5M
 cook: 5M
 servings: 4

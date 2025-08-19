@@ -3,7 +3,7 @@ title: Sancocho
 prep: 5M
 cook: 1H
 servings: 4
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Barranquilla_-_Sancocho_de_mondongo.jpg/1200px-Barranquilla_-_Sancocho_de_mondongo.jpg
+image: /img/recipes/sancocho.jpg
 tags:
   - Panamanian 🇵🇦
 sourceURL: http://www.geniuskitchen.com/recipe/panamanian-sancocho-215671

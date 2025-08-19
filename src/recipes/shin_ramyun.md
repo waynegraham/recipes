@@ -2,7 +2,7 @@
 title: Homemade "Shin Ramyun"
 tags:
   - Korean 🇰🇷
-image: https://source.unsplash.com/YRSRQpBfsj4
+image: /img/recipes/no-revisions-YRSRQpBfsj4-unsplash.jpg
 sourceURL: http://www.fussfreecooking.com/recipe-categories/meatless-recipes/homemade-instant-shin-ramyun-hot-spicy-ramen/
 servings: 4
 prep: 10M

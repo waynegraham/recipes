@@ -1,6 +1,6 @@
 ---
 title: Blondies
-image: https://source.unsplash.com/JsQBjJJHg7E
+image: /img/recipes/blondies.jpg
 tags:
   - Sweet 🍬
   - Favorite ⭐
@@ -8,7 +8,7 @@ sourceURL: https://smittenkitchen.com/2006/11/blondies/
 sourceLabel: Smitten Kitchen
 servings: 16
 time: 60M
-ingredients: 
+ingredients:
     - 8 tablespoons (1 stick, 4 ounces or 115 grams) unsalted butter
     - 1 cup (190 grams) light or dark brown sugar
     - 1 large egg

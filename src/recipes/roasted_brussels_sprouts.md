@@ -2,7 +2,7 @@
 title: Roasted Brussels Sprouts
 tags:
   - American 🇺🇸
-image: https://source.unsplash.com/dqlxphCcA2g
+image: /img/recipes/keenan-loo-dqlxphCcA2g-unsplash.jpg
 sourceURL: https://theforkedspoon.com/roasted-brussel-sprouts-with-lemon-garlic-and-red-pepper/
 servings: 2
 prep: 10M

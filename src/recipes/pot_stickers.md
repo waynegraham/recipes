@@ -3,7 +3,7 @@ title: Pot Stickers
 sourceLabel: FoodWishes
 sourceURL: https://foodwishes.blogspot.com/2017/10/potstickers-for-when-you-cant-decide.html
 video: https://www.youtube.com/embed/GSmM00YekMc
-image: https://source.unsplash.com/1vDVxYnABUA
+image: /img/recipes/matthieu-joannon-1vDVxYnABUA-unsplash.jpg
 prep: 30M
 cook: 10M
 servings: 4

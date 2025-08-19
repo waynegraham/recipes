@@ -3,7 +3,7 @@ title: Peach Cobbler
 tags:
   - Comfort Food 🧸
   - Desserts 🍰
-image: https://source.unsplash.com/rqABly7c9j0
+image: /img/recipes/charlesdeluvio-rqABly7c9j0-unsplash.jpg
 sourceURL: https://www.tasteofhome.com/recipes/peach-cobbler/
 servings: 8
 prep: 5M

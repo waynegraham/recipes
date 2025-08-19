@@ -1,6 +1,6 @@
 ---
 title: Pad Krapow Gai
-image: https://4.bp.blogspot.com/-AjiXKFKleO0/WPbhd0C7RrI/AAAAAAAASnQ/KIyf5pZS-g45VP-4uD_znvN97LHPEbxhgCLcB/s320/IMG_7818.JPG
+image: /img/recipes/IMG_7818.JPG
 sourceLabel: Food Wishes
 sourceURL: https://foodwishes.blogspot.com/2017/04/spicy-thai-basil-chicken-my-pad-krapow.html
 servings: 2
