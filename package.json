@@ -7,7 +7,7 @@
     "clean": "npx rimraf 'docs'",
     "dev:css": "sass src/scss/main.scss:src/_includes/css/main.css --watch --style=compressed",
     "dev:11ty": "eleventy --serve",
-    "start": "npm-run-all --parallel dev:css dev:11ty",
+    "start": "npm run dev",
     "dev": "npm-run-all --parallel dev:css dev:11ty",
     "prod:css": "sass src/scss/main.scss:src/_includes/css/main.css --style=compressed",
     "prod:11ty": "eleventy",

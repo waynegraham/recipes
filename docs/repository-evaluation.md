@@ -17,7 +17,8 @@ My Online Cookbook is an Eleventy + Netlify CMS starter kit designed to publish 
 
 ## Completed Improvements
 - Removed legacy lint configs (`.jshintrc`, `.bablerc`) to reduce maintenance overhead now that they are no longer part of the build pipeline.
+- Simplified the npm scripts by making `start` delegate to `dev`, removing duplicated configuration.
 
 ## Quick Wins
-- Replace the duplicated `dev`/`start` scripts with a single command alias to simplify CLI usage.【F:package.json†L6-L14】
+- ~~Replace the duplicated `dev`/`start` scripts with a single command alias to simplify CLI usage.【F:package.json†L6-L14】~~ ✅ Completed.
 - Add a `CONTRIBUTING.md` describing how to add new recipes, run the dev server, and preview Netlify CMS locally; this will make the project more approachable for community collaborators.【F:README.md†L26-L43】
