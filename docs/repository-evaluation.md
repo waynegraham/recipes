@@ -15,7 +15,9 @@ My Online Cookbook is an Eleventy + Netlify CMS starter kit designed to publish 
 5. **Strengthen content validation.** Recipe markdown files rely on manually curated front matter, so schema drift can sneak in. Consider adding a front matter schema (using Eleventy’s `eleventyConfig.addDataExtension` or JSON Schema validation in Netlify CMS) to ensure required fields like `title`, `servings`, and `ingredients` are consistently populated.【F:.eleventy.js†L16-L78】
 6. **Document image workflow.** The custom `recipeimage` shortcode outputs responsive image markup and writes assets to `docs/img/recipes`, but contributors may not realize local builds generate these derivatives. Expanding the README with guidance on source image locations (`src/img/recipes`) and how the shortcode works will reduce confusion during content updates.【F:.eleventy.js†L80-L123】【F:README.md†L36-L43】
 
+## Completed Improvements
+- Removed legacy lint configs (`.jshintrc`, `.bablerc`) to reduce maintenance overhead now that they are no longer part of the build pipeline.
+
 ## Quick Wins
 - Replace the duplicated `dev`/`start` scripts with a single command alias to simplify CLI usage.【F:package.json†L6-L14】
-- Remove legacy lint configs (`.jshintrc`, `.bablerc`) if they are no longer part of the build, further reducing maintenance overhead.【F:.jshintrc†L1-L3】【F:.bablerc†L1-L3】
 - Add a `CONTRIBUTING.md` describing how to add new recipes, run the dev server, and preview Netlify CMS locally; this will make the project more approachable for community collaborators.【F:README.md†L26-L43】
