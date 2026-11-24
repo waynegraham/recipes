@@ -1,4 +1,4 @@
-const Image = require("@11ty/eleventy-img");
+const Image = require("@11ty/eleventy-img").default;
 const util = require("util");
 
 const emojiRegex =
@@ -80,7 +80,7 @@ module.exports = (config) => {
     /* Shortcodes */
     // config.addShortcode("recipeimage", async function(src, className, alt, sizes) {
 	// 	let metadata = await Image(
-    //         src.includes("http") ? src : `./src/${src}`, 
+    //         src.includes("http") ? src : `./src/${src}`,
     //         {
     //             widths: [600, 1500, 3000],
     //             formats: ["webp", "jpeg"],

@@ -510,6 +510,27 @@
             "url" : "/recipes/recipes/twisty-cinnamon-bun/",
             "ingredients" : ["1 cup (235 ml) milk, any kind, lightly warmed","2 1/2 teaspoons (1 packet or 7 grams) instant yeast","1/4 cup (50 grams) granulated sugar","2 teaspoons kosher salt (I’m using Diamond; use 1.5t of other brands)","2 large eggs","8 tablespoons (4 ounces or 115 grams) unsalted butter, diced","3 1/2 cups (455 grams) cups all-purpose flour","3 tablespoons (45 grams) butter, salted or unsalted, melted","Pinch or two of salt (if butter is unsalted)","1 cup (190 grams) dark brown sugar","1 tablespoon ground cinnamon","1 8-ounce (225-grams) block cream cheese, at room temperature","2/3 cup (80 grams) powdered sugar","1/2 teaspoon vanilla extract or 1/4 teaspoon vanilla bean paste","1 to 2 (15 to 30 ml) tablespoons milk or cream"],
             "tags" : ["Baking"]
+        },
+    
+        {
+            "title" : "Chocolate Fudge",
+            "url" : "/recipes/recipes/chocolate-fudge/",
+            "ingredients" : ["4 1/2 cups sugar","salt","1/4 pound butter","8 ounces evaporated milk","12-ounce bag of semi-sweet chocolate chips","1 pint marshmallow cream","1 cup nuts (optional)"],
+            "tags" : ["Sweet 🍬"]
+        },
+    
+        {
+            "title" : "Potato Candy",
+            "url" : "/recipes/recipes/potato-candy/",
+            "ingredients" : ["½ cup (105 g) plain mashed potatoes* see recipe notes for cooking instructions","½ cup (113 g) salted butter softened","6-7 cups (800-910 g) powdered sugar plus additional for dusting","2 teaspoons vanilla extract","Creamy peanut butter for filling"],
+            "tags" : ["Sweet 🍬"]
+        },
+    
+        {
+            "title" : "Peanutbutter Fudge",
+            "url" : "/recipes/recipes/peanut-butter-fudge/",
+            "ingredients" : ["1 stick butter","12-oz. can evaporated milk","4 cups white sugar","1 cup packed brown sugar","7-oz. jar marshmallow crème","1 tsp. vanilla extract","16-oz. jar peanut butter"],
+            "tags" : ["Sweet 🍬"]
         }
     
 ]
